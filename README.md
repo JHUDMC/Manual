@@ -14,17 +14,17 @@
     - ESS
     - TimesheetX
     - Shifts in Teams
-## Lab Protocols
+## Staff Protocols
   - Security
     - Emergency Procedures
     - Evacuation Procedures for DMC
     - Staff After Hours Access
   - Behavioral Policy
   - Confidentiality Policy
-## Core Aspects of Working at the DMC
   - The DMC Staff Hierarchy of Needs
   - Customer Service
     - Answering the Phone
+    - Answering Emails
   - In-Lab Teaching
   - Other Tasks
 ## Lab Operations
