@@ -2,15 +2,15 @@
 
 ## [JHU Student Employment](JHUStudentEmployment.md)
   - [Schedule](JHUStudentEmployment.md#schedule)
-  - Attendance Policy
-    - Group and One on One Meetings
+  - [Attendance Policy](JHUStudentEmployment.md#attendance-policy)
+    - Group and One-on-One Meetings
     - Sick and Safe
-  - Discipline and Termination
+  - [Discipline and Termination](JHUStudentEmployment.md#discipline-and-termination)
     - Fireable Offenses
     - Major Offenses
     - Minor Offenses
     - Termination
-  - Time and Pay Systems
+  - [Time and Pay Systems](JHUStudentEmployment.md#time-and-pay-systems)
     - ESS
     - TimesheetX
     - Shifts in Teams
