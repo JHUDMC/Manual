@@ -27,19 +27,22 @@
     - Answering Emails
   - In-Lab Teaching
   - Other Tasks
-## Lab Operations
   - New Employees Overview
   - Training Overview
-  - Lab Operations and Systems Overview
-    - BookIt Overview
+
+## [Systems](Systems.md)
+- Systems Overview
+    - BookIt
     - Discord
-    - Outlook Overview
-    - Credit Card Reader Overview
-    - JCard Reader Overview
+    - Outlook
+    - Credit Card Reader
+    - JCard Reader
     - Tasks
-    - Real VNC Overview
-    - HIPPO Overview
+    - Real VNC
+    - HIPPO
     - Teams Files
+    - HopkinsGroups
+## [Lab Operations and Facilities](LabOperations.md)
   - Lab, Cage, and Game Loft Facilities Overview
     - The Lab Overview
       - Projector
@@ -76,10 +79,10 @@
 - Credit Card Reader
 - JCard Reader
 - Charging budget numbers
-- Real VNC
+- RealVNC
 - File Storage
 - HIPPO
-  - Facility Resource Guides
+- Facility Resource Guides
     - VR Room
   - In-Lab Equipment Guides
     - 3D Printers

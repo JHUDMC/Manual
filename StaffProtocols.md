@@ -221,4 +221,34 @@ Aside from answering the phone and helping patrons with check outs and returns, 
     - Working on team projects.
     - Independent learning in order to level up
 
+## New Employees
 
+Newbies go through a **4-week shadowing period** where they **complete the newbie checklist** with the aid of veteran staff. During the shadowing period, newbies should aim to work with at least **three** different veteran staffers. Veteran staff will encourage Newbies to practice these skills when the situation arises or should create a scenario for them to practice the skills on the checklist. 
+
+Newbies must demonstrate competencies during: 
+
+- Shadowing period
+- First semester
+- First year 
+
+to maintain good standing and not be at risk for termination.
+
+**Newbies cannot work shifts alone or open/close the lab until the start of their 2nd second semester.**
+
+**New staff will:**
+- Attend initial HR training.
+- Shadow 'Veteran' student staff on enough shifts to be able to complete the Front Desk Skill Demonstration check list.
+- Complete domain-specific training in: Audio, Video, Photo, Lab/Peripheral, Graphics, Gaming, and Maker areas.
+- Complete self-paced skill assessments throughout the Fall semester and the first year of employment.
+
+**Staff are expected to continue to:**
+- Pursue interests in learning digital media skills in one or more areas
+- Engage in training and skill improvement every year
+- Attend general training and specialized digital media skill training in different domains. 
+- Achieve proficiency in all skills listed on the Front Desk Skill Demonstration check list.
+- Become authorized to use all special equipment categories.
+- Work additional hours to support DMC events and participate in special projects.
+- Further develop creative and technical skills for their own interests and to better serve our patrons. Demonstrate their progress during periodic performance reviews with Pro Staff. 
+
+## Training Overview
+New staff will attend a **mandatory day-long training event** where they will review the information in this manual and meet the rest of the DMC staff. Following training day new DMC employees will shadow for their first semester.
