@@ -92,6 +92,23 @@ HIPPO is our internal server for DMC files and can be accessed when you are conn
 
 ![HIPPO reset button location](https://github.com/JHUDMC/Manual/blob/db4b649fa9b4992ea7d706ed3a5f14cad90362c9/media/HIPPO.jpg)
 
+### Connecting to HIPPO
+**Mac:**
+- Open Finder
+- In the Menu Bar Select Go > Connect to Server (or press Cmd+K)
+- Type the following path: `smb://HW-DMC-HIPPO/Project`
+- Click "Connect"
+- Enter your JHED and password
+
+**Windows:**
+- Open the File Explorer
+- In the address bar, type the following path: `\\hw-dmc-hippo\Project`
+- Press the Enter key
+- Enter your JHED and password to connect
+- *NB: You might need to enter JHED@jh.edu instead of just your JHED for Windows.*
+
+If those file paths don't work for some reason, try the IP address (`10.166.42.124`) instead of "HW-DMC-HIPPO"
+
 ## Teams Files
 
 ## HopkinsGroups
