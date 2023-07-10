@@ -1,5 +1,7 @@
 # Table of Contents
 
+## [Quick Reference for DMC Staff](QuickReference.md)
+
 ## [JHU Student Employment](JHUStudentEmployment.md)
   - [Schedule](JHUStudentEmployment.md#schedule)
   - [Attendance Policy](JHUStudentEmployment.md#attendance-policy)
@@ -14,6 +16,7 @@
     - ESS
     - TimesheetX
     - Shifts in Teams
+
 ## [Staff Protocols](StaffProtocols.md)
   - Security
     - Emergency Procedures
@@ -45,16 +48,12 @@
     - Social Media
 
 ## [Lab Operations and Facilities](LabOperations.md)
-  - Lab, Cage, and Game Loft Facilities Overview
+  - Facilities Overview
     - The Lab Overview
-      - Projector
-      - Television
       - Lab Computers and specialty Stations
-    - Printing
-      - Laser Printing Overview
-      - Inkjet Printing (Small Sheet) Overview
-      - Inkjet Printing (Large Roll) Overview
-    - Cage
+
+
+    - Equipment Cage
     - Audio Studio Overview
     - Project Space
     - Multi-Use VR Space
@@ -76,10 +75,13 @@
       - Fine Waiver
     - Missing and Broken Items
   - Authorizations
+  
 ## Lab Operations and Systems Guides
 
 - Facility Resource Guides
     - VR Room
+    - Lab Projector
+    - Television
   - In-Lab Equipment Guides
     - 3D Printers
     - Phone

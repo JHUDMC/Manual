@@ -18,11 +18,11 @@ dmcstaff@jhu.edu is the shared mailbox from which Student Staff can respond to a
 #### Tasks
 Tasks is the DMC project management system. Here we organize team projects, submit repair tickets, and purchase requests. It’s built into Teams (though functionality is better in the browser: https://tasks.office.com/)
 
-#### JCard Reader
-The JCard reader lives on the Front Desk and accepts JCash payments (the preferred method of payment at the DMC). The JCard reader has a point-of-sale interface that automatically tallies totals for various DMC printing and consumable products. 
+#### J-Card Reader
+The J-Card reader lives on the Front Desk and accepts J-Cash payments (the preferred method of payment at the DMC). The J-Card reader has a point-of-sale interface that automatically tallies totals for various DMC printing and consumable products. 
 
 #### Credit Card Reader
-The DMC has a portable wireless credit card reader that operates on cellular data. We use this device to accept payment from people without JCash for a small fee. We can also use it to accept payment at events if needed. 
+The DMC has a portable wireless credit card reader that operates on cellular data. We use this device to accept payment from people without J-Cash for a small fee. We can also use it to accept payment at events if needed. 
 
 #### RealVNC
 RealVNC is the system we use to remote into the gaming computers in the LaB so we don’t have to go upstairs. Typically, this is used to enter an admin password to install/update a game. 
@@ -81,11 +81,26 @@ Pro Staff will also forward anything we'd like you to reply to or see on shift. 
 #### Using the calendar:
 The shared calendar will help us track all kinds of appointments in the DMC, especially those that reserve lab space or require student staff attention or attendance. This is especially important for special events or those in which the entire lab is reserved (like for a workshop session). 
 
-## JCard Reader
+## J-Card Reader
+If the J-Card reader enters "continuous check-in mode," do the following:
+1. Tap on the screen's corners in this order: top left, bottom right, top right, bottom left.
+2. Enter the code `3817`.
+
+If you need to log into the J-Card wedge after a reboot, choose "Jason Charney" as the user and enter code "3817."
 
 ## Credit Card Reader
 
 ## RealVNC
+- Patrons do not have admin rights on DMC/Gaming Loft computers and therefore must request the support of DMC staff to install software or games
+- DMC Staff are permitted to install software on DMC computers, but must use common sense! (please don't install a Yahoo! toolbar etc.)
+
+If a Patron asks for software to be installed or updated on a Gaming Loft PC and needs an administrator password...
+1.	Use your best judgement to determine if the program is malicious or not. If you have any doubts, tell the Patron you are unable to install the software and will ask IT to handle it.
+2.	Ask the patron which computer they are using and find it in the RealVNC Viewer client installed on the Front Desk computer. Connect to it.
+3.	Enter the password `dmcgaming`. You should now be able to move the mouse around and type on their screen.
+4.	Download and install the software on the machine if it is not yet installed.
+5.	When prompted for admin credentials in Windows, use **YOUR** normal JHED/password combination as the user.
+
 
 ## HIPPO
 HIPPO is our internal server for DMC files and can be accessed when you are connected to the Hopkins network (on campus, or through VPN). It lives in the back of the cage and should remain on at all times. If there is a power outage or if it turns off for some reason, you can turn it back on by pressing the button on the top of the device.
@@ -108,6 +123,22 @@ HIPPO is our internal server for DMC files and can be accessed when you are conn
 - *NB: You might need to enter JHED@jh.edu instead of just your JHED for Windows.*
 
 If those file paths don't work for some reason, try the IP address (`10.166.42.124`) instead of "HW-DMC-HIPPO"
+
+### HIPPO Shares
+| Share (HIPPO/[x]) | Subfolders                               | Permissions                          |
+|-------------------|------------------------------------------|--------------------------------------|
+| /Project          | Events and Projects<br>PR<br>Circulation | ProStaff; StuStaff                   |
+| /Workshop         |                                          | Write: ProStaff<br>Read only: anyone |
+| /Admin            |                                          | ProStaff                             |
+| /Archive          |                                          | Prostaff                             |
+| /StaffHomes       | /Jason<br>/Travis<br>/Tony               | Jason<br>Travis<br>Tony              |
+
+### Events and Projects
+All files related to events and projects should live in their own folder on `HIPPO/Project/Events and Projects.`
+
+When a new project is started, add a folder in the current year with the following naming convention:
+`[Year]/[date]_[project name]/`
+
 
 ## Teams Files
 
