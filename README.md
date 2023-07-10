@@ -18,16 +18,17 @@
     - Shifts in Teams
 
 ## [Staff Protocols](StaffProtocols.md)
-  - Security
-    - Emergency Procedures
-    - Evacuation Procedures for DMC
-    - Staff After Hours Access
-  - Behavioral Policy
-  - Confidentiality Policy
-  - The DMC Staff Hierarchy of Needs
-  - Customer Service
+  - [Security](StaffProtocols.md#Security)
+    - Emergencies
+    - Evacuation Procedures
+    - Staff After-Hours Access
+  - [Behavioral Policy](StaffProtocols.md#behavioral-policy)
+  - [Confidentiality Policy](StaffProtocols.md#confidentiality-policy)
+  - [The DMC Staff Hierarchy of Needs](StaffProtocols.md#the-dmc-staff-hierarchy-of-needs)
+  - [Customer Service](StaffProtocols.md#customer-service)
     - Answering the Phone
     - Answering Emails
+  - [DMC Member Agreement](StaffProtocols.md#dmc-member-agreement)
   - In-Lab Teaching
   - Other Tasks
   - New Employees Overview
@@ -49,12 +50,10 @@
 
 ## [Lab Operations and Facilities](LabOperations.md)
   - Facilities Overview
-    - The Lab Overview
+    - The Lab
       - Lab Computers and specialty Stations
-
-
     - Equipment Cage
-    - Audio Studio Overview
+    - Audio Studio
     - Project Space
     - Multi-Use VR Space
     - Game Loft Overview
@@ -64,38 +63,73 @@
     - During Shift
     - Closing
     - Unexpected Closures
-  - Making Patrons Members
-  - Checking Resources In and Out
+    - Lab Floorplans
+  - Adding New Patrons
+  - Equipment Checkouts
     - Checking Out Equipment
     - Checking In Equipment
-    - Roleplay Scenarios for Front Desk Check-out/Check-in
+      - Roleplay Scenarios for Front Desk Check-out/Check-in
     - Renewals
     - Overdue Equipment
     - Fines
       - Fine Waiver
     - Missing and Broken Items
-  - Authorizations
+  - Authorizations Overview
   
-## Lab Operations and Systems Guides
+## Resource Guides and Troubleshooting
+*In-Lab*
+- Audio Studio
+  - Authorization
+  - Tips and Troubleshooting
+  - Signal Map
+  - Plugin Guide
+- VR Studio
+  - Quick Start Guide
+- Lab Projector
+- Television
+- 3D Printers
+  - Authorization
+  - Tips and Troubleshooting
+- Printers
+  - Pharos/Laser Printer
+  - Poster Printers
+    - Epson P9880
+    - Epson P9000
+    - HP DesignJet Z5600
+    - Troubleshooting
+  - Inkjet Photo Printers
+    - Epson P5000
+      - Troubleshooting
+    - Canon Pixma Pro 100
+      - Troubleshooting
+      - Printing with Specialty Paper
+- Roland Vinyl Cutter
+- Cricut
+- Epson Scanner
 
-- Facility Resource Guides
-    - VR Room
-    - Lab Projector
-    - Television
-  - In-Lab Equipment Guides
-    - 3D Printers
-    - Phone
-    - Printers
-        - Laser Printer
-        - Poster Printers
-            - Epson P9880
-            - Epson P9000
-            - HP
-        - Photo Printers
-            - Epson P5000
-            - Pixma Inkjet Printer
+*Circulating Equipment*
+- Beginner DSLR Cameras
+  - Authorization
+- Advanced DSLR Cameras
+  - Authorization
+- Tripods
+  - Authorization
+- Lenses
+  - Authorization
+- PA System
+  - Authorization
+- Mixers
+  - Authorization
+- Advanced Light Kit
+  - Authorization
+- Sony FS5 Camera
+  - Authorization
+- Atomos Video Monitor
+  - Authorization
+
 ### Circulating Resource Management
 - Getting Equipment Online
 - Inventory
 - Kit Pics and Quick Start Guides
 - Circulation Room
+

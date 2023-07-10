@@ -25,7 +25,7 @@ It is the policy of The Johns Hopkins University that all incidents which result
     - Staff: Occupational Health Services, 3100 Wyman Park Drive, Room 670
 5.	For employee incidents, the supervisor shall complete an "Incident Report" form and forward the form to the appropriate treatment area.
 
-### Evacuation Procedures
+## Evacuation Procedures
 Unless the staff has been notified via signs posted by campus security, all alarms are to be taken seriously. The following steps should be taken if alarms sound or smoke or fire are evident:
 1. Walk around the lab, including the offices and editing suites, and (calmly but firmly) tell everyone to gather their things and quickly save their work; that they need to vacate because of the alarm.
 2. If students do not comply after several attempts, inform them that their computer is being turned off. Shut down the computer.
