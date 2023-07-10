@@ -90,6 +90,8 @@ The shared calendar will help us track all kinds of appointments in the DMC, esp
 ## HIPPO
 HIPPO is our internal server for DMC files and can be accessed when you are connected to the Hopkins network (on campus, or through VPN). It lives in the back of the cage and should remain on at all times. If there is a power outage or if it turns off for some reason, you can turn it back on by pressing the button on the top of the device.
 
+![HIPPO reset button location](https://github.com/JHUDMC/Manual/blob/db4b649fa9b4992ea7d706ed3a5f14cad90362c9/media/HIPPO.jpg)
+
 ## Teams Files
 
 ## HopkinsGroups

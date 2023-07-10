@@ -14,7 +14,7 @@
     - ESS
     - TimesheetX
     - Shifts in Teams
-## Staff Protocols
+## [Staff Protocols](StaffProtocols.md)
   - Security
     - Emergency Procedures
     - Evacuation Procedures for DMC
@@ -42,6 +42,8 @@
     - HIPPO
     - Teams Files
     - HopkinsGroups
+    - Social Media
+
 ## [Lab Operations and Facilities](LabOperations.md)
   - Lab, Cage, and Game Loft Facilities Overview
     - The Lab Overview
@@ -75,13 +77,7 @@
     - Missing and Broken Items
   - Authorizations
 ## Lab Operations and Systems Guides
-- Outlook Shared Email and Calendar
-- Credit Card Reader
-- JCard Reader
-- Charging budget numbers
-- RealVNC
-- File Storage
-- HIPPO
+
 - Facility Resource Guides
     - VR Room
   - In-Lab Equipment Guides
