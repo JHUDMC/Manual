@@ -78,16 +78,16 @@
   
 ## [Resource Guides and Troubleshooting](ResourceGuides.md)
 *In-Lab*
-- Audio Studio
+- [Audio Studio](ResourceGuides.md#audio-studio)
   - Authorization
   - Tips and Troubleshooting
   - Signal Map
   - Plugin Guide
-- VR Studio
+- [VR Studio](ResourceGuides.md#vr-studio)
   - Quick Start Guide
-- Lab Projector
-- Television
-- 3D Printers
+- [Lab Projector](ResourceGuides.md#lab-projector)
+- [Television](ResourceGuides.md#television)
+- [3D Printers](ResourceGuides.md#3d-printers)
   - Authorization
   - Tips and Troubleshooting
 - Printers
@@ -106,7 +106,7 @@
 - Roland GX-24 Vinyl Cutter
 - Cricut Maker
 - Brother Digital Embroiderer
-- Epson Scanner
+- Epson Perfection V700 Flatbed Scanner
 
 *Circulating Equipment*
 - Beginner DSLR Cameras
@@ -117,7 +117,7 @@
   - Authorization
 - Lenses
   - Authorization
-- PA System
+- PA Systems
   - Authorization
 - Mixers
   - Authorization

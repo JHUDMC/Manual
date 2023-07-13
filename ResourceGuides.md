@@ -24,11 +24,7 @@
 ### 3D Printers
 
 #### Authorization
-##### Step 1: Watch the authorization Video
-
-<p data-identifyelement="468" dir="ltr"><span data-identifyelement="469" dir="ltr" style="font-size: 16px;"><span class="fr-video fr-deletable fr-fvc fr-dvb fr-draggable"><iframe width="640" height="360" src="https://player.vimeo.com/video/672528585" frameborder="0" allowfullscreen="" class="fr-draggable" sandbox="allow-scripts allow-forms allow-same-origin allow-presentation"></iframe></span></span>
-	<br>
-</p>
+##### Step 1: [Watch the authorization Video](https://player.vimeo.com/video/672528585)
 
 ##### Step 2: "Show Me" Demo with DMC Staff
 1. Make sure the Prusa and Raspberry Pi are powered on (Pi should never be turned off)
