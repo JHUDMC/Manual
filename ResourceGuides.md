@@ -71,31 +71,44 @@
 
 ---
 
-## *Circulating Equipment*
+## *Circulating Equipment Authorizations*
 
 ### Beginner DSLR Cameras
-#### Authorization
 
 ### Advanced DSLR Cameras
-#### Authorization
 
 ### Tripods
-#### Authorization
 
 ### Lenses
-#### Authorization
 
 ### Advanced Light Kit
-#### Authorization
 
 ### Sony FS5 Video Camera
-#### Authorization
 
 ### Atomos Video Monitor
-#### Authorization
 
 ### PA Systems
-#### Authorization
+This authorization allows you to check out both the [Yamaha Stagepas](https://bookit.dmc.jhu.edu/equipment/item/147953) and the [Samson Expedition](https://bookit.dmc.jhu.edu/equipment/item/147967) portable PA systems. They function very similarly.
+
+#### Step 1: [Watch the Yamaha PA video.](https://vimeo.com/195515763)
+#### Step 2: "Show Me" demo with DMC Staff
+1. **Unpack the kit, connect power and speaker cables.** Always lower the master volume when attaching/detaching cables or when powering on/off (to avoid loud POPS).
+2. **Connect a microphone with an XLR cable** and a laptop or other small playback device with a 1/8" jack.
+   - *Staff:* grab a vocal mic, XLR cable, and aux cable OR 1/8" TRS to 1/4" dual mono cable from the cage)
+3. **Plug in** a playback device to a stereo channel, and the microphone into a mono channel. Play some music and speak into the microphone.
+4. **Demonstrate adjusting levels**, both **input gain** (per channel) and **output volume** (master) 
+5. *Staff:* show EQ adjustments per channel and effect/aux sends. (optional)
+6. **Wrap all cables neatly** and **pack the kit back up.**
+7. Recommend **speaker stands** for optimal sound quality. 
 
 ### Mixers
-#### Authorization
+This authorization allows you to check out both the [Mackie 1202-VLZ Pro Mixer](https://bookit.dmc.jhu.edu/equipment/item/146927) (analog) and the [Presonus AR12c Mixer](https://bookit.dmc.jhu.edu/equipment/item/146930) (digital). The Presonus mixer also has built-in recording, digital effects, and more channels for auxiliary sends, but both mixers have the same basic functions.
+
+1. **Plug in the mixer's power cable.**
+2. **Always turn down the master volume** when attaching/detaching cables or when turning mixer on/off (to avoid POPS).
+3. **Turn on** the mixer.
+4. Point out **XLR** and **1/4" TRS inputs** (i.e. where to plug stuff in). 
+5. Point out the **multiple outputs** (XLR and TRS), where to connect cables for **main speakers, monitors, and headphones.**
+6. Point out **phantom power switch,** make sure they understand that some mics (condensers) require phantom power and some mics (dynamic) do not.
+7. Explain input gain knobs for individual channels, the **individual channel output volume fader** and **master volume fader.**
+8. Point out **EQ knobs** for each channel.

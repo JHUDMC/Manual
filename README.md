@@ -108,25 +108,16 @@
 - Brother Digital Embroiderer
 - Epson Perfection V700 Flatbed Scanner
 
-*Circulating Equipment*
+*Circulating Equipment Authorizations*
 - Beginner DSLR Cameras
-  - Authorization
 - Advanced DSLR Cameras
-  - Authorization
 - Tripods
-  - Authorization
 - Lenses
-  - Authorization
-- PA Systems
-  - Authorization
-- Mixers
-  - Authorization
 - Advanced Light Kit
-  - Authorization
 - Sony FS5 Camera
-  - Authorization
 - Atomos Video Monitor
-  - Authorization
+- PA Systems
+- Mixers
 
 ### Circulating Resource Management
 - Getting Equipment Online
