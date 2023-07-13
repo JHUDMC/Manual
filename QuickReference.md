@@ -5,4 +5,5 @@
 ## TimesheetX
 ## passwords/logins
 ## Spreadsheets
+## Consumables Pricing
 ## FAQs
