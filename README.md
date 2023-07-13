@@ -76,7 +76,7 @@
     - Missing and Broken Items
   - Authorizations Overview
   
-## Resource Guides and Troubleshooting
+## [Resource Guides and Troubleshooting](ResourceGuides.md)
 *In-Lab*
 - Audio Studio
   - Authorization
@@ -103,8 +103,9 @@
     - Canon Pixma Pro 100
       - Troubleshooting
       - Printing with Specialty Paper
-- Roland Vinyl Cutter
-- Cricut
+- Roland GX-24 Vinyl Cutter
+- Cricut Maker
+- Brother Digital Embroiderer
 - Epson Scanner
 
 *Circulating Equipment*
