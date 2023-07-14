@@ -12,14 +12,27 @@
 ![Audio Studio Signal Flow 2023](https://github.com/JHUDMC/Manual/blob/b106c86cf1ad9e11b76c5f76fe092c2b91169bb5/media/Audio%20Studio%20Signal%20Flow%202023.png)
 
 #### Plugin Guide
+The Audio Studio computer has the following extra plugins available (as Audio Units):
 
 #### Manuals and Learning Resources
 
 ### VR Studio
 
 ### Lab Projector
+The lab projector can be controlled by a remote on the column closest to the projector screen. There are two inputs on the projector, one for the wireless Crestron system which displays instructions on screen, and a direct HDMI connection that can be accessed by where the remotes are stored.
 
-### Television
+Any computer in the lab can connect to the projector using the [Crestron AirMedia](https://www.crestron.com/Software-Firmware/Software/Air-Media/AirMedia_OSx_Guest_Application/4-1-14) app.
+
+To cast to the projector from a lab computer:
+1. Open Crestron AirMedia (icon should be in the Dock)
+2. Click "Ask Me" and then "OK" if you get a popup about "Session delegation options."
+3. In the Connect screen, you'll see `AM-200-00107FFD4EEF - 10.166.42.218` listed. Click "Connect."
+4. Enter in the AirMedia PIN code: `3817`.
+5. Click the Control Center icon in the top right of the menu bar and select `Screen Mirroring`.
+6. Select `AM-200-00107FFD4EEF` in the menu and enter the AirMedia PIN code again: `3817`.
+7. You may need to press "source search" on the projector remote to get to the display.
+8. No sound? Select `AM-200-00107FFD4EEF` as the audio output device in the system or specific application.
+
 
 ### 3D Printers
 
@@ -68,7 +81,7 @@
 ### Cricut Maker
 
 ### Epson Perfection V700 Flatbed Scanner
-
+The Epson Perfection V700 scanner is plugged into the Graphics specialty workstation. can be used with the Graphics 
 ---
 
 ## *Circulating Equipment Authorizations*
@@ -78,14 +91,86 @@
 ### Advanced DSLR Cameras
 
 ### Tripods
+Every camera authorization must be accompanied by this tripod authorization if the patron is not already authorized to use the tripods!
+
+#### Step 1: [Watch the Tripod video.](https://vimeo.com/231555948)
+
+#### Step 2: "Show me" demo with DMC Staff
+
+Safely attach a camera to a tripod using its quick release plate. 
+
+***Make sure the camera and the mount plate are securely attached to the tripods and facing the correct direction on the mount.***
+
+| Name                                | Recommended Applications                                                                                                                                                                                                                                                        |
+|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Manfrotto 190X                      | This tripod is optimized for video, since it has a fluid head that allows for smooth camera motion. Can also be used for still photography but there are less bulky options suggested below.<br><br>**NOT for use with the Sony FS5, please use the Heavy Duty tripod instead** |
+| Manfrotto Photo Tripod (with 3-Way) | This tripod is optimized for still photography, since it has an adjustable 3-axis head that provides a lot of freedom for camera placement (including portrait orientation).                                                                                                    |
+| Pistol-Grip Ball Head               | This is our lightest tripod, useful for both photo and video. Has a ball head that allows for quick adjustments for photos, or relatively smooth camera movements for video.                                                                                                    |
+| Manfrotto Heavy Duty Fluid Head     | This tripod is our heaviest, and is intended for use with heavy video cameras such as the Sony FS5. Not ideal for lighter cameras due to its weight and bulkiness.                                                                                                              |
 
 ### Lenses
+The DMC has several speciality lenses you can attach to our camera kits (or use with your own Canon camera).
+
+The Canon EF-series lenses are used with EOS DSLR cameras (T5i, 5D, and 1D cameras). R-series lenses are used with the full-frame mirrorless cameras (R6 and R8). The DMC's extra lenses are all EF but can be used with the R6 and R8 cameras. Adapter rings are in each of these camera kits.
+
+| Camera         | EF Lenses | EF-S Lenses |
+|----------------|-----------|-------------|
+| Canon T5i      | Yes       | Yes         |
+| Canon 1D Mk IV | Yes       | **No**      |
+| Canon 5D Mk IV | Yes       | **No**      |
+| Sony FS5       | Yes       | Yes         |
+| Canon R6       | Yes*      | Yes*        |
+| Canon R8       | Yes*      | Yes*        |
+
+\**Use EF-EOS R adapters included in camera kit*
+
+
 
 ### Advanced Light Kit
+The [Aputure Light Storm (C120d II) LED Light Kit](https://bookit.dmc.jhu.edu/equipment/item/148382) contains three LED lights and all additional accessories needed to create a good lighting setup for photos/video.
+
+#### Step 1: [Watch the authorization video.](https://vimeo.com/521098299)
+#### Step 2: "Show me" demo with DMC Staff
+1. Set up light stand
+2. Adjust yoke on light to desired angle (default in parallel position to light) 
+3. Attach light to stand 
+4. Remove protective cover from light
+5. Attach metal dome reflector hood to light
+6. Attach barn doors to reflector hood (make sure to re-secure latch on barn doors)
+7. Attach gel holder to barn doors and insert gel if desired 
+8. Connect light to a controller box with red XLR cable and secure controller box on light stand (using straps) 
+9. Attach and detach a battery (first option for power source) from the V-mount plate on the controller box - mention limitation of battery not being able to go above 95W power
+10. After battery is detached, connect controller box to yellow power cable (second option for power source) and plug into outlet
+11. Turn on light and adjust brightness (on controller box)
+12. Demonstrate how to use and toggle between lighting effect presets (fireworks, TV, etc.)
+13. Remove barn doors and reflector dome from light and attach softbox (with diffuser) -- mention how to use gel with softbox
+14. Deconstruct the equipment (order: detach controller box, remove light attachments - softbox/reflector hood, cover light, detach light, adjust yoke, break down light stand)
 
 ### Sony FS5 Video Camera
 
 ### Atomos Video Monitor
+The patron should arrange an appointment with a staff member well ahead of time to ensure that the necessary gear and staff will be available for the allotted time. The equipment will need to be reserved in the name of the staff member who can authorize  on the [Atomos Shogun Inferno](https://bookit.dmc.jhu.edu/equipment/item/148420) (Pro Staff only). We recommend doing this authorization in conjunction with the [Sony FS5](https://bookit.dmc.jhu.edu/equipment/item/148452) as they can be used together.
+
+#### Step 1: [Watch the authorization video.](https://vimeo.com/282009019)
+
+#### Step 2: DMC Staff shows you the following.
+1. How to turn on and adjust the waveforms
+2. How to turn on and adjust focus peaking
+3. How to turn on and adjust frame guides
+4. How to utilize the ATOMHDR feature
+5. How to record slow motion onto the Shogun Inferno with the FS5
+   
+#### Step 3: "Show me" demo with DMC Staff. 
+1. Remove/replace battery and show how to charge it
+2. Remove/replace SSD
+3. Mount to FS5/DSLR
+4. Connect to FS5/DSLR with appropriate cable
+5. Adjust settings on camera to get proper output to the Shogun Inferno
+6. Adjust settings on Shogun Inferno to be able to see and record footage
+7. Change between recording codecs
+8. Format SSDs
+9. Record a few seconds and playback
+10. Offload footage from the SSDs.
 
 ### PA Systems
 This authorization allows you to check out both the [Yamaha Stagepas](https://bookit.dmc.jhu.edu/equipment/item/147953) and the [Samson Expedition](https://bookit.dmc.jhu.edu/equipment/item/147967) portable PA systems. They function very similarly.
