@@ -118,9 +118,10 @@
 - PA Systems
 - Mixers
 
-### Circulating Resource Management
-- Circulation Room
-- Getting Equipment Online
-- Inventory
-- Kit Pics and Quick Start Guides
-
+## [Circulating Resource Management](CirculatingResourceManagement.md)
+- [Circulation Room](CirculatingResourceManagement.md#circulation-room)
+- [Getting Equipment Online](CirculatingResourceManagement.md#getting-equipment-online)
+- [Inventory](CirculatingResourceManagement.md#inventory)
+- [Kit Pics and Quick Start Guides](CirculatingResourceManagement.md#kit-pics-and-quick-start-guides)
+  - Kit Pics
+  - Quickstart Guides
