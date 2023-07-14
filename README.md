@@ -29,10 +29,10 @@
     - Answering the Phone
     - Answering Emails
   - [DMC Member Agreement](StaffProtocols.md#dmc-member-agreement)
-  - In-Lab Teaching
-  - Other Tasks
-  - New Employees Overview
-  - Training Overview
+  - [In-Lab Teaching](StaffProtocols.md#in-lab-teaching)
+  - [Other Tasks](StaffProtocols.md#other-tasks)
+  - [New Employees Overview](StaffProtocols.md#new-employees)
+  - [Training Overview](StaffProtocols.md#training-overview)
 
 ## [Systems](Systems.md)
 - Systems Overview

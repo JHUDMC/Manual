@@ -112,11 +112,11 @@ If the University deems it unsafe for students to go outside this means you are 
 
 ---
 ## Equipment Checkouts
-This guide refers to the physical process of handling checkouts and checkins. Refer to BookIt guides for more information on managing the software.
+Note: This guide refers to the physical process of handling checkouts and checkins. Refer to [BookIt guides](Systems.md#bookit-1) for more information on managing the software.
 
 Checking cage equipment in and out is a core component of working at the DMC. It is the responsibility of the patron to check that every kit's components is present on the way out, and the responsibility of the DMC staff to check everything on the way in.
 
-NOTE: Always try to show patrons how to find BookIt from our website and make a reservation themselves. This will ensure the proper authorizations are being followed and that they are getting what they need. 
+Always try to show patrons how to find BookIt from our website and make a reservation themselves. This will ensure the proper authorizations are being followed and that they are getting what they need. 
 
 ### Checking Out Equipment
 1.	Ensure that the patron has made a reservation themselves. If not, show them to the computer by the front door where they can make their own. 
@@ -218,5 +218,20 @@ If an item comes back broken or missing components:
   - Set the item's status to "Offline" in BookIt so the missing/broken items don’t impact upcoming reservations. Put details in the “Damage Notes” field on the item.  Make a Circulation Ticket detailing the problem and assign it to the “Fixing” Bucket. Make sure the ticket also references the specific patron/reservation during which the item was lost or damaged so we can charge them appropriately.
   - If there are upcoming reservations, cancel them and notify the patrons of available alternatives via email. 
   - Place the item in the Circ Room on the ‘broken’ shelf.
+
+### Authorizations Overview
+
+Authorizations help the DMC determine if the user knows the basic operation and safe use of the piece of equipment.  Some of the more expensive and complicated cameras, sound recording, and lighting equipment can only be checked out by people who have gotten authorized to use it and are then added to the specific BookIt authorization group. BookIt will prevent a member from borrowing equipment they are not authorized for it.
+
+Every DMC student staff member must become authorized for every piece of equipment within their first year of employment.
+
+How to authorize a member:
+
+- Explain that the purpose of the authorization is to teach basic operation and safe use of the piece of equipment.
+- Direct them the video clips demonstrating how to use the equipment.
+- Most of the authorizations require a "show me" where the member must show the staff member that they know how to install a battery, change a lens, etc.  These steps are listed at the Authorization page for each resource.
+- If you have any doubt as to the member's ability to safely handle the equipment, please give them a lower-end piece of equipment that does not require an authorization and refer them to the proper DMC Pro Staffer or experienced Stu Staffer.
+- If they have mastered the skills to your satisfaction, add them to the authorization group on the Active Directory tool and to allow them to reserve the gear.
+- You may also remind them that just because they can safely operate the equipment doesn't mean they can make great art and suggest they take some inspiring workshops or arrange for one-on-one training by an experienced StuStaffer or for mentoring by a ProStaffer.
 
 

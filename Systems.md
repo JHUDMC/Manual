@@ -39,9 +39,29 @@ HIPPO is our internal server for DMC files and can be accessed when you are conn
 
 ---
 ## BookIt
+BookIt, located at [bookit.dmc.jhu.edu](https://bookit.dmc.jhu.edu), is the DMC's equipment and space checkout system. The software is [LibCal](https://www.springshare.com/libcal/) and has been highly customized for the DMC.
+
+Anyone can view our inventory on BookIt without signing in, but patrons must log into BookIt to create a reservation. BookIt interfaces with the JHU Single Sign On system (the system everyone with a JHED uses to log into myJHU, SIS, etc.) and the Active Directory system.
+
+After new patrons complete registration on HopkinsGroups, DMC staff adds them to the corresponding Active Directory groups using the custom "AD for DMC Equipment Approvers" app (see guide below). Patrons can check their membership status and authorizations using the [Authorization Lookup Tool](https://teams.microsoft.com/l/entity/8dfefe72-3c10-466a-8242-0b79a2d7ac59/_djb2_msteams_prefix_4218721136?context=%7B%22subEntityId%22%3Anull%2C%22channelId%22%3A%2219%3A84be967fe46e44f988912b8e334feaf7%40thread.skype%22%7D&groupId=a60cf059-d221-4e68-982a-585d03682213&tenantId=9fa4f438-b1e6-473b-803f-86f8aedf0dec&allowXTenantAccess=false).
+
+Laminated Job guides for common tasks in BookIt are located at the front desk. Digital copies may be accessed here:
+- [Adding Members and Authorizations](https://livejohnshopkins.sharepoint.com/:b:/s/DigitalMediaCenter225/EV0UJaH8EhhLuWTBIp6lPSQBGwft6dcDOGP-rvulpo37EQ?e=K9rVRY)
+- [Checking Out Equipment](https://livejohnshopkins.sharepoint.com/:b:/s/DigitalMediaCenter225/EREfAmebem5MruriZPVdZzYBxQGjAi_0KYaEVfPXgLJHlA?e=CxKvt8)
+- [Checking Spaces In/Out](https://livejohnshopkins.sharepoint.com/:b:/s/DigitalMediaCenter225/Eb8iRQHqi9RJsKtxR4af58kBL0d-Q7fVbSBwNTe5z0CXaA?e=6obxn2)
 
 ## Discord
+The DMC operates a popular server for patrons on [Discord](bit.ly/discorddmc). When a user joins the server, they must provide their JHU email, which will give them access to the patron-facing channels (assigning them the "patron" role).
 
+Student Staff has an additional Role that opens up staff-only channels, used for announcements, chat about DMC operations, and shift sub requests.
+
+### Discord Rules of Engagement
+1. ALL staff should be LOGGED ON to Discord during shifts (both Front Desk and Project shifts if working at a computer). You are not responsible for checking the server or replying to messages when you're not on shift.
+2. You must acknowledge every message posted in `#staff-announcements`. Add a "react" icon of your choosing to each message to acknowledge you have read and understood its content. It's recommended that you check this channel at the beginning of each shift and make sure you have read and reacted to every new announcement. Other important messages may be provided in `#staff-chat-dmc-related` or `#on-shift-assignments` (and it's expected that you read them), but you don't need to "react" to them.
+3. Staff should respond to questions from patrons using the "reply" function so that context is provided. Most of these questions will be in the `#help` or `#gaming-help` channels. Try to respond in a timely manner.
+4. Post a reply to every question on Discord! Often patrons will ask a question on Discord and then get their issue resolved by email or phone. But posting a reply – even a redundant one – signals to other patrons we're responsive and may help answer future questions!
+5.  If you need more specific personal information from someone to resolve an issue (such as their JHED), encourage them to DM you on Discord or call the DMC front desk.
+   
 ## Email (Outlook)
 All Student Staff has acccess to the dmcstaff@jhu.edu email account and should be monitoring and responding to the inbox during a Front Desk shift.
 
@@ -78,8 +98,8 @@ Pro Staff will also forward anything we'd like you to reply to or see on shift. 
 
 - Use Outlook's ["My Templates"](https://answers.microsoft.com/en-us/outlook_com/forum/all/outlook-web-access-my-templates/b0d7f655-31a1-4c7f-bb22-10373498aca9) feature to quickly access language for common emails (like late item reminders).
 
-#### Using the calendar:
-The shared calendar will help us track all kinds of appointments in the DMC, especially those that reserve lab space or require student staff attention or attendance. This is especially important for special events or those in which the entire lab is reserved (like for a workshop session). 
+#### Using the Outlook calendar:
+The shared calendar helps us track all kinds of appointments in the DMC, especially those that reserve lab space or require student staff attention or attendance. This is especially important for special events or those in which the entire lab is reserved (like for a workshop session). 
 
 ## J-Card Reader
 If the J-Card reader enters "continuous check-in mode," do the following:
@@ -145,5 +165,4 @@ When a new project is started, add a folder in the current year with the followi
 ## HopkinsGroups
 
 ## Social Media
-
 
