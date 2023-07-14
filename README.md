@@ -38,7 +38,7 @@
 - Systems Overview
     - BookIt
     - Discord
-    - Outlook
+    - Email (Outlook)
     - Credit Card Reader
     - JCard Reader
     - Tasks
@@ -49,22 +49,21 @@
     - Social Media
 
 ## [Lab Operations and Facilities](LabOperations.md)
-  - Facilities Overview
+  - [Facilities Overview](LabOperations.md#facilities-overview)
     - The Lab
-      - Lab Computers and specialty Stations
+      - Lab Computers and specialty workstations
     - Equipment Cage
     - Audio Studio
     - Project Space
     - Multi-Use VR Space
     - Game Loft Overview
     - Storage Spaces
-  - Daily Operations
+  - [Daily Operations](LabOperations.md#daily-operations)
     - Opening
     - During Shift
     - Closing
     - Unexpected Closures
     - Lab Floorplans
-  - Adding New Patrons
   - Equipment Checkouts
     - Checking Out Equipment
     - Checking In Equipment
@@ -120,8 +119,8 @@
 - Mixers
 
 ### Circulating Resource Management
+- Circulation Room
 - Getting Equipment Online
 - Inventory
 - Kit Pics and Quick Start Guides
-- Circulation Room
 
