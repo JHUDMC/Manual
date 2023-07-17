@@ -222,28 +222,73 @@ It’s important to stay on top of overdue items before they affect future reser
 
 You should log contact attempts on the “Internal Notes” in the “Booking Details” modal on BookIt. 
 
-### Fines 
-
-Late DMC items accrue fines at a rate of **$1 per hour per item** until the value of the equipment has been reached. Students will not be able to check anything out from the DMC until they have resolved their fines. 
-
-- BookIt won’t cap fines at the value of the equipment, so you’ll be required to do the math yourself before you charge the student. Do not charge the student more than the value of the equipment (amount found in BookIt). 
-- You can charge fines on the JCash reader using an input called “fines” or by using the credit card reader.
-- Remember to clear the fine on the patron's account in BookIt!
-
-#### Fine Waiver
-The DMC offers students a one-time fine waiver for late fines only (not broken/missing equipment). If a student would like to use their waiver, they can email digitalmedia@jhu.edu. ProStaff will check their account and send them the waiver form on HopkinsGroups. 
-
 ### Missing and Broken Items
 If an item comes back broken or missing components:
 
-- Notify the student that Pro Staff will be in touch about the charge for repairing or replacing the item. 
+- Notify the student that Pro Staff will be in touch about the charge for repairing or replacing the item and the patron may be suspended from reserving equipment until the issue is resolved. 
 - Can the item be easily replaced with circ room backstock? (for example, an SD card).
   - If so, replace the item and make a Circulation Ticket outlining what you took from the circ room and include the students’ JHED who lost the item so ProStaff can charge the appropriate amount to their account. Change the “Bucket” to “Charging Patrons/Financial” and assign it to a Pro Staff member. Note what you did in the item's Maintenance Log on BookIt.
   - If not, but the item is still usable without the component, make a Circulation Ticket and list the missing item in Damage Notes.
 - If the missing or damaged item renders the entire kit unusable:
-  - Set the item's status to "Offline" in BookIt so the missing/broken items don’t impact upcoming reservations. Put details in the “Damage Notes” field on the item.  Make a Circulation Ticket detailing the problem and assign it to the “Fixing” Bucket. Make sure the ticket also references the specific patron/reservation during which the item was lost or damaged so we can charge them appropriately.
-  - If there are upcoming reservations, cancel them and notify the patrons of available alternatives via email. 
+  - Set the item's status to "Offline" in BookIt so the missing/broken items don’t impact upcoming reservations. Put details in the “Damage Notes” field on the item.  
+  - Make a Circulation Ticket detailing the problem and assign it to the “Fixing” Bucket. This ticket should reference the specific patron/reservation during which the item was lost or damaged so we can charge them appropriately. You can reference past reservations in BookIt using the "Booking Explorer" feature.
+  - If there are upcoming reservations in BookIt, cancel them and notify the patrons of available alternatives via email. 
   - Place the item in the Circ Room on the ‘broken’ shelf.
+
+### Fines 
+Regardless of the payment method, no fines at the DMC have sales tax. Every fine payment must be accompanied with a printed receipt and put in Travis' box by the Pro Staff office door.
+
+#### Late Returns
+Late DMC items accrue fines at a rate of **$1 per hour per item** until the value of the equipment has been reached. Students will not be able to check anything out from the DMC until they have resolved their fines, and late items continue to accrue fines until the late item is checked in.
+
+- BookIt won’t cap fines at the value of the equipment, so you’ll be required to do the math yourself before you charge the student. Do not charge the student more than the value of the item(s). You can find this amount with each item on the receipt and in the item's BookIt entry. 
+- You can charge fines on the JCash reader using the input called “fines” or by using the credit card reader.
+- Remember to clear the fine on the patron's account in BookIt after the item is checked in! You can also print an invoice for their records.
+
+#### Late Fine Waiver
+The DMC offers students a one-time fine waiver for **late fines only** (not broken/missing equipment). If a student would like to use their waiver, they can email digitalmedia@jhu.edu. Pro Staff will check their account and send them the waiver form on HopkinsGroups. 
+
+#### Missing and Broken Item Fines
+If it's determined that a patron broke or lost any part of a kit during a checkout, Pro Staff will determine the cost of repairing or replacing the item based on the listed value or the cost of a specific part. Patrons can pay these fees at the Front Desk with credit card or J-Cash, after which they can be unsuspended from BookIt.
+
+
+### Payments
+All fines and consumables purchases at the DMC can be paid for using J-Cash, credit/debit card, or an internal budget code.
+
+**Please note that the paying with a credit card requires an additional $1 fee on top of the total amount (including sales tax)!** We really prefer J-Cash. You can encourage patrons to [load more J-Cash on their cards](https://studentaffairs.jhu.edu/jcard/j-cash/refill-jcard/) prior to making a purchase.
+
+#### Sales Tax
+[need info here!]
+
+#### Fines & Registration Fees
+New members who are not full-time Homewood students are required to pay a one-time $50 membership fee which can be paid at our Front Desk. We also accept fine payments for late returns, missing & broken items, and occasional special events. Please note that any fees should never have sales tax attached and receipts for any fees should be printed and put in Travis' box.
+
+#### Consumable Items
+The DMC provides consumable media and supplies for purchase from the front desk. Most is charged by item. An up-to-date list of current prices is located on the Student Staff Teams site, on the front desk printer, and on the [DMC's website](https://studentaffairs.jhu.edu/dmc/printing/).
+
+#### Poster & 3D Printing Logs
+Since posters and 3D prints are not sold in discrete units, the DMC calculates these costs using the spreadsheets in Student Staff Teams. ***For each print, the log **must** contain the date, patron's JHED, tender type, and staff initials indicating the payment has been received/logged.***
+
+If a student is paying with J-Cash or credit card, make sure you use the `Total w/Tax` field to include sales tax in the total cost.
+
+- Poster prints: the price is calculated by the `Print Length` and `Paper Type` fields.
+- 3D Prints: the price is determined by the `Total Time` and `Filament Type` fields.
+
+
+#### JHU Budget Codes
+Any item at the DMC can be paid for using internal budget codes provided by student groups or academic departments. This is an 8-10 digit number that you may also hear called a "cost center". A list of many (but not all) registered student group budget numbers is on Student Staff Teams.
+
+Patrons should be able to provide the budget code to the front desk staffer at the time of purchase.
+
+- If a patron is paying for a consumable item using a budget code, log the total amount and budget code in the `Internally Funded DMC Usage` document in Teams and also make sure you document what was in the purchase in the `Service Field`. The JHED of the patron served should be listed as well if we have further questions.
+- Patrons paying for poster/3D prints with a budget code need this documented in the correct printing spreadsheet **AND** the `Internally Funded DMC Usage` spreadsheet!
+
+If the patron doesn't have the budget code with them at the time of purchase:
+- Hold their items behind the front desk until they get in contact with their group who can get it for them
+- Or, they can pay for the item using their own J-Cash or credit card (without sales tax) and get reimbursed by their group later.
+- If they are not sure that their group is going to pay for the purchase, they'll need to pay sales tax as well.
+
+Pro Staff can generate invoices for budget code purchases upon request by emailing digitalmedia@jhu.edu.
 
 ### Authorizations Overview
 

@@ -73,9 +73,41 @@ Pro Staff will also forward anything we'd like you to reply to or see on shift. 
 The shared calendar helps us track all kinds of appointments in the DMC, especially those that reserve lab space or require student staff attention or attendance. This is especially important for special events or those in which the entire lab is reserved (like for a workshop session). 
 
 ## Tasks
-Tasks is the DMC project management system. Here we organize team projects, submit repair tickets, and purchase requests. It’s built into Teams (though functionality is better in the browser: https://tasks.office.com/)
+Tasks is the DMC project management system. Here we organize team projects, submit repair tickets, and purchase requests. It’s built into Teams (though functionality is better in the browser: https://tasks.office.com/).
 
-## J-Card Kiosk
+**All staff should monitor Tasks during their shift for assignments and open tasks that need addressing.**
+
+The DMC uses two "Plans" (Tasks' word for groups of tickets). These plans are further sorted into "Buckets" which categorize them. Finally, each Task may be assigned to individual staff member(s) for feedback or to complete on shift.
+
+### Circulation Tickets
+Circulation Tickets track any problems with circulating equipment (e.g missing or broken components) as well as purchase requests and outstanding patron fines.
+
+When a Task is created in this plan, it is automatically re-titled with a sequential number starting with "C" (e.g. "`C0000: Task Title`") for easy reference in BookIt and other systems. Use this number in items' `Damage Notes` field on BookIt. Note: it may take a few minutes for the task title to update!
+
+#### "Fixing" bucket
+Tasks in this Bucket document problems with specific equipment. The title should contain the barcode of the item in question and a description of the problem in the "Notes" field. The assigned ticket number (starting with C) should be put in the `Damage Notes` field of the item on BookIt for reference.
+
+#### "Purchasing" bucket
+Tasks in the "Purchasing" bucket should be assigned to Travis and should contain: the name of the item needed in the task title, link to the item in question in the notes, and any explanation. If it's for a specific kit, also include this information. Travis updates the task with "In Progress" when the item has been purchased and leaves a comment with the estimated arrival date.
+
+Note: any staff can make a purchase request for anything! DMC Student Staff take the pulse of what gadgets and games they and their peers (our patrons!) are interesteed in. A purchase request does not guarantee acquisition of an item but it's the best way to let Pro Staff know what you think the DMC needs.
+
+#### "Charging Patrons/Financial" bucket
+A task in this bucket documents an outstanding charge for a patron. It may be linked to a "Fixing" task or otherwise. Generally this should only be assigned to a Pro Staff but should include reference to a specific patron's JHED and/or BookIt booking in the notes field.
+
+#### Future/Dormant bucket
+Pro Staff will move tasks to this bucket if an issue is outstanding but no action needs to be taken in the near future.
+
+### Project Tasks
+This plan is used for tracking semester-long projects or work for staff to complete on Project Shifts and during downtime on shifts. Both Pro Staff and Stu Staff Managers may assign tasks in this bucket to specific people.
+
+### Tasks Best Practices & Reminders
+- **Each Task should have a short, descriptive title.** This may be updated if the task changes categories, but should give a clear description to any staff member about the issue. Remember to include item barcodes if necessary!
+- **Use checklists if there are sequential steps and/or multiple people working on the task.** The built-in checklist feature is most useful for tasks in Project Tasks plan, but may also be used for multiple issues in a Circulation Ticket.
+- **Add comments to track progress.** You can add a comment explaining progress you made during a shift, asking what information you need to continue, or documenting research you completed to help the project along.
+- **Only Managers and Pro Staff should assign tasks to other staff.**  Tasks may be reassigned if you're to complete a request during a shift, so pay attention to Teams notifications during shifts to check for new tasks.
+
+### J-Card Kiosk
 
 The J-Card reader lives on the Front Desk and accepts J-Cash payments (the preferred method of payment at the DMC). The J-Card reader has a point-of-sale interface that automatically tallies totals for various DMC printing and consumable products. 
 
@@ -85,9 +117,46 @@ If the J-Card reader enters "continuous check-in mode," do the following:
 
 If you need to log into the J-Card wedge after a reboot, choose "Jason Charney" as the user and enter code "3817."
 
-## Credit Card Reader
+### Credit Card Reader
 
 The DMC has a portable wireless credit card reader that operates on cellular data. We use this device to accept payment from people without J-Cash for a small fee. We can also use it to accept payment at events if needed. 
+
+The credit card reader is a [PAX A920 Pro](https://www.paxtechnology.com/a920pro) that accepts swipe, tap, chip and manual entry. It runs on an AT&T SIM card so there's no need to connect to a WiFi network. The device is battery powered and can be used at tabling events on campus.
+
+Receipt paper for the printer lives in the middle drawer to right of the front desk.
+
+For more information, you can find the device's manual in the top drawer.
+
+***NOTE: If the credit card reader cellular bars register as a solid triangle you need to restart the device. If you run a transaction while the bars are a solid triangle the transaction will be denied.***
+
+**To run a credit card/debit card transaction:**
+
+1. Make sure the device is charged and on. Go to the "Bluefin" app.
+2. In the top bar make sure `CREDIT` or `DEBIT` is highlighted appropriately.
+3. Press `SALE`
+4. Enter in the dollar amount of the service, item or fine. *You can use the J-Card Kiosk to calcuate total cost of consumables with sales tax before entering in the dollar amount in the credit card reader.*
+5. Press `CONFIRM`.
+6. Have the patron tap, swipe, or insert their chip card into the reader.
+7. Have the patron sign the screen if prompted.
+
+**Need to print a receipt?**
+
+***NOTE You must ALWAYS print the receipt for FINES and put it in Travis' office mailbox outside the office door!***
+
+1. Go to the "Bluefin" app.
+2. In the top bar, press `FUNC`.
+3. Press `Re-Print`.
+4. Press `Print Last`. *If you need to print a receipt for the patron and for Travis, you can perform this action twice.*
+
+**Need to void an incorrect charge?**
+1. Ask the patron to present the receipt. If it's for the most recent transaction, follow the steps above for printing a receipt.
+2. Note on the receipt whether it says "Credit Sale" or "Debit Sale" and the "Transaction #" directly beneath.
+3. Go to the Bluefin app.
+4. In the top bar make sure `CREDIT` or `DEBIT` is highlighted appropriately based on the information on the receipt.
+5. Press `V/SALE`.
+6. Enter the "Transaction #" on the receipt.
+7. Press `confirm`.
+8. To print a receipt for the voided transaction, follow the steps above for printing a receipt.
 
 
 ## RealVNC

@@ -5,58 +5,59 @@
 ## [JHU Student Employment](JHUStudentEmployment.md)
   - [Schedule](JHUStudentEmployment.md#schedule)
   - [Attendance Policy](JHUStudentEmployment.md#attendance-policy)
-    - Group and One-on-One Meetings
-    - Sick and Safe
+    - [Group and One-on-One Meetings](JHUStudentEmployment.md#group-and-one-on-one-meetings)
+    - [Sick and Safe](JHUStudentEmployment.md#maryland-sick-and-safe-leave)
   - [Discipline and Termination](JHUStudentEmployment.md#discipline-and-termination)
-    - Fireable Offenses
-    - Major Offenses
-    - Minor Offenses
-    - Termination
+    - [Fireable Offenses](JHUStudentEmployment.md#fireable-offenses)
+    - [Major Offenses](JHUStudentEmployment.md#major-offenses)
+    - [Minor Offenses](JHUStudentEmployment.md#minor-offenses)
+    - [Termination](JHUStudentEmployment.md#termination)
   - [Time and Pay Systems](JHUStudentEmployment.md#time-and-pay-systems)
-    - ESS
-    - TimesheetX
-    - Shifts in Teams
+    - [ESS](JHUStudentEmployment.md#ess)
+    - [TimesheetX](JHUStudentEmployment.md#timesheetx)
+    - [Shifts in Teams](JHUStudentEmployment.md#shifts-in-teams)
 
 ## [Staff Protocols](StaffProtocols.md)
   - [Security](StaffProtocols.md#Security)
-    - Emergencies
-    - Evacuation Procedures
-    - Staff After-Hours Access
+    - [Emergencies](StaffProtocols.md#emergencies)
+    - [Evacuation Procedures](StaffProtocols.md#evacuation-procedures)
+    - [Staff After-Hours Access](StaffProtocols.md#staff-after-hours-access)
   - [Behavioral Policy](StaffProtocols.md#behavioral-policy)
   - [Confidentiality Policy](StaffProtocols.md#confidentiality-policy)
   - [The DMC Staff Hierarchy of Needs](StaffProtocols.md#the-dmc-staff-hierarchy-of-needs)
   - [Customer Service](StaffProtocols.md#customer-service)
-    - Answering the Phone
-    - Answering Emails
+    - [Answering the Phone](StaffProtocols.md#answering-the-phone)
+    - [In-Lab Teaching](StaffProtocols.md#in-lab-teaching)
   - [DMC Member Agreement](StaffProtocols.md#dmc-member-agreement)
-  - [In-Lab Teaching](StaffProtocols.md#in-lab-teaching)
   - [Other Tasks](StaffProtocols.md#other-tasks)
   - [New Employees Overview](StaffProtocols.md#new-employees)
   - [Training Overview](StaffProtocols.md#training-overview)
 
 ## [Systems](Systems.md)
-- BookIt
-- Discord
-  - Discord Rules of Engagement
-- Email (Outlook)
-  - Email Best Practices
-  - Using the Outlook calendar
-- Tasks
-  - Circulation Tickets
-  - Project Tasks
-- Credit Card Reader
-- JCard Kiosk
-- RealVNC
-- HIPPO
-  - Connecting to HIPPO
-  - HIPPO Volumes
-  - Important Subfolders
-    - Circulation
-    - Events and Projects
-    - PR Templates
-- Teams Files
-- HopkinsGroups
-- Social Media and Promotion
+- [BookIt](Systems.md#bookit)
+- [Discord](Systems.md#discord)
+  - [Discord Rules of Engagement](Systems.md#discord-rules-of-engagement)
+- [Email (Outlook)](Systems.md#email-outlook)
+  - [Email Best Practices](Systems.md#email-best-practices)
+  - [Using the Outlook calendar](Systems.md#email-best-practices)
+- [Tasks](Systems.md#tasks)
+  - [Circulation Tickets](Systems.md#circulation-tickets)
+  - [Project Tasks](Systems.md#project-tasks)
+  - [Tasks Best Practices & Reminders](Systems.md#tasks-best-practices--reminders)
+- [Credit Card Reader](Systems.md#credit-card-reader)
+- [J-Card Kiosk](Systems.md#j-card-kiosk)
+- [RealVNC](Systems.md#realvnc)
+- [HIPPO](Systems.md#hippo)
+  - [Connecting to HIPPO](Systems.md#connecting-to-hippo)
+  - [HIPPO Volumes](Systems.md#hippo-volumes)
+  - [Important Subfolders](Systems.md#important-subfolders)
+    - [Circulation](Systems.md#circulation)
+    - [Events and Projects](Systems.md#events-and-projects)
+    - [PR Templates](Systems.md#pr-templates)
+- [Teams Files](Systems.md#teams-files)
+- [HopkinsGroups](Systems.md#hopkinsgroups)
+  - [Creating events](Systems.md#creating-events)
+- [Social Media and Promotion](Systems.md#social-media-and-promotion)
 
 ## [Lab Operations and Facilities](LabOperations.md)
   - [Facilities Overview](LabOperations.md#facilities-overview)
@@ -69,22 +70,30 @@
     - Game Loft Overview
     - Storage Spaces
   - [Daily Operations](LabOperations.md#daily-operations)
-    - Opening
-    - During Shift
-    - Closing
-    - Unexpected Closures
-    - Lab Floorplans
+    - [Opening](LabOperations.md#opening)
+    - [During Shift](LabOperations.md#during-shift)
+    - [Closing](LabOperations.md#closing)
+    - [Unexpected Closures](LabOperations.md#unexpected-closures)
+    - [Lab Floorplans](LabOperations.md#lab-floorplans)
   - [New Member Orientation](LabOperations.md#new-member-orientation)
-  - Equipment Checkouts
-    - Checking Out Equipment
-    - Checking In Equipment
-      - Roleplay Scenarios for Front Desk Check-out/Check-in
-    - Renewals
-    - Overdue Equipment
-    - Fines
-      - Fine Waiver
-    - Missing and Broken Items
-  - Authorizations Overview
+  - [Equipment Checkouts](LabOperations.md#equipment-checkouts)
+    - [Checking Out Equipment](LabOperations.md#checking-out-equipment)
+    - [Checking In Equipment](LabOperations.md#checking-in-equipment)
+      - [Roleplay Scenarios for Front Desk Check-out/Check-in](LabOperations.md#roleplay-scenarios-for-front-desk-check-outcheck-in)
+    - [Renewals](LabOperations.md#renewals)
+    - [Overdue Items](LabOperations.md#overdue-items)
+    - [Missing and Broken Items](LabOperations.md#missing-and-broken-items)
+    - [Fines](LabOperations.md#fines)
+      - Late Returns
+      - Late Fine Waiver
+      - Missing and Broken Item Fines
+  - [Payments](LabOperations.md#payments)
+    - Sales Tax
+    - Fines & Registration Fees
+    - Consumable Items
+    - Poster & 3D Printing Logs
+    - JHU Budget Codes
+  - [Authorizations Overview](LabOperations.md#authorizations-overview)
   
 ## [Resource Guides and Troubleshooting](ResourceGuides.md)
 *In-Lab*
