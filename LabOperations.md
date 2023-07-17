@@ -111,6 +111,32 @@ If the University deems it unsafe for students to go outside this means you are 
 [image for closing]
 
 ---
+## New Member Orientation
+
+### To become a new patron, a student MUST: 
+
+1. **Be a full-time or part-time student enrolled in a Hopkins program.** The DMC is free for full-time enrolled students at Homewood Campus (KSAS and WSE) and Peabody — except for graduate students in Advanced Academic Programs — and a one-time, $50 membership fee for all other students. Visiting scholars, faculty, and post-doctoral fellows are not eligible for membership.
+2. If you have questions about someone's eligibility, please ask a Pro Staffer before you accept payment or register the student! 
+3. Complete our "DMC Member Questionnaire" available here: https://cglink.me/2dh/s82182.  
+
+### Steps to making someone a patron of the DMC: 
+
+The "DMC Member Questionnaire" includes our new member video, a brief set of questions affirming that the applicant has watched the video, and our membership agreement. 
+1. Have them navigate to https://cglink.me/2dh/s82182 on their phone, any computer, or in an Incognito window on the booking kiosk. 
+2. They should sign into HopkinsGroups and click "Existing Users: Sign In" to log in with their JHED and password. (They should already be registered in HopkinsGroups if they're a Homewood student.)
+3. After they've completed the questionnaire, they should have a "DMC Member Badge" affirming their membership. 
+4. Log into CampusGroups. Select Digital Media Center, then select "Member Success" on the left-hand menu, and then click "Badges" to view "Badge Completion."  
+5. The students in this list can now be added to our BookIt system. 
+6. Find the student's JHED in the list (it should be at the top as the most recent registrant) and [follow the steps](https://livejohnshopkins.sharepoint.com/:b:/s/DigitalMediaCenter225/EV0UJaH8EhhLuWTBIp6lPSQBGwft6dcDOGP-rvulpo37EQ?e=K9rVRY) to import them as a member in BookIt. 
+7. If the students are part of the schools listed below, they must pay a 50-dollar fee, which can be charged at the front desk via J-Cash or Credit Card.
+- Advanced Academic Program (AAP)
+- School of Medicine (JHMI/SOM)
+- Carey Business School 
+- School of Pubilc Health
+- School of Nursing
+- School of Education
+- School of Advanced International Studies (SAIS)
+
 ## Equipment Checkouts
 Note: This guide refers to the physical process of handling checkouts and checkins. Refer to [BookIt guides](Systems.md#bookit-1) for more information on managing the software.
 

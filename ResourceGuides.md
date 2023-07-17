@@ -113,6 +113,8 @@ The DMC has several speciality lenses you can attach to our camera kits (or use 
 
 The Canon EF-series lenses are used with EOS DSLR cameras (T5i, 5D, and 1D cameras). R-series lenses are used with the full-frame mirrorless cameras (R6 and R8). The DMC's extra lenses are all EF but can be used with the R6 and R8 cameras. Adapter rings are in each of these camera kits.
 
+#### Step 1: Check the chart for compatibility with the camera you want to use.
+
 | Camera         | EF Lenses | EF-S Lenses |
 |----------------|-----------|-------------|
 | Canon T5i      | Yes       | Yes         |
@@ -124,7 +126,16 @@ The Canon EF-series lenses are used with EOS DSLR cameras (T5i, 5D, and 1D camer
 
 \**Use EF-EOS R adapters included in camera kit*
 
+#### Step 2: [Watch the authorization video.](https://vimeo.com/231555847)
 
+#### Step 3: "Show me" demo with DMC Staff
+- Show how to **remove the lens caps** and **where to store them when the lens is in use.**
+- How to **put the lens on the camera.**
+- Explain the **different types of lenses** and how can they tell which is which (EF vs EF-S)
+- **Identify which cameras** they can use this lens with.
+- How to switch from **Auto to Manual Focus** on the lenses that have that capability.
+- How to **zoom the lens** on the lenses that have that capability.
+- How to **clean the lens.**
 
 ### Advanced Light Kit
 The [Aputure Light Storm (C120d II) LED Light Kit](https://bookit.dmc.jhu.edu/equipment/item/148382) contains three LED lights and all additional accessories needed to create a good lighting setup for photos/video.

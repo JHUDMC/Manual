@@ -2,44 +2,12 @@
 
 The DMC uses several different software systems for internal projects and patron access.
 
-When working on the Front Desk computer, you should log into all systems as yourself, using your own JHED, and log out when done (the easiest way to do this is to log out of the dmcadmin account)
-
-### Overview
-
-#### BookIt
-BookIt is the equipment and space reservation system the DMC uses. All patrons and staff use BookIt to track inventory and check it out.
-
-#### Discord
-The DMC's Discord server is the Virtual Front Desk for patrons asking questions. Its staff-only channels are also frequently used for discussions, announcements, and shift sub requests.
-
-#### Email (Outlook)
-dmcstaff@jhu.edu is the shared mailbox from which Student Staff can respond to and initiate conversations with patrons. It should be open and monitored during Front Desk shifts.
-
-#### Tasks
-Tasks is the DMC project management system. Here we organize team projects, submit repair tickets, and purchase requests. It’s built into Teams (though functionality is better in the browser: https://tasks.office.com/)
-
-#### J-Card Reader
-The J-Card reader lives on the Front Desk and accepts J-Cash payments (the preferred method of payment at the DMC). The J-Card reader has a point-of-sale interface that automatically tallies totals for various DMC printing and consumable products. 
-
-#### Credit Card Reader
-The DMC has a portable wireless credit card reader that operates on cellular data. We use this device to accept payment from people without J-Cash for a small fee. We can also use it to accept payment at events if needed. 
-
-#### RealVNC
-RealVNC is the system we use to remote into the gaming computers in the LaB so we don’t have to go upstairs. Typically, this is used to enter an admin password to install/update a game. 
-
-#### HIPPO
-HIPPO is our internal server for DMC files and can be accessed when you are connected to the Hopkins network (on campus, or through VPN). It lives in the back of the cage on the networking rack and should always remain powered on. It can be accessed at: smb://HW-DMC-HIPPO/Project
-
-#### Teams Files
-“Teams – DMC Stustaff”  is where we store commonly-accessed documents such as shared passwords, consumable purchase tracking spreadsheets, and some DMC project files.
-
-#### HopkinsGroups
-
-#### Social Media
+When working on the Front Desk computer, you should log into all systems as yourself, using your own JHED, and log out when done (the easiest way to do this is to log out of the dmcadmin account.)
 
 ---
 ## BookIt
-BookIt, located at [bookit.dmc.jhu.edu](https://bookit.dmc.jhu.edu), is the DMC's equipment and space checkout system. The software is [LibCal](https://www.springshare.com/libcal/) and has been highly customized for the DMC.
+
+BookIt, located at [bookit.dmc.jhu.edu](https://bookit.dmc.jhu.edu), is the DMC's equipment and space reservation system. The software is [LibCal](https://www.springshare.com/libcal/) and has been highly customized for the DMC. All patrons and staff use BookIt to track inventory and check it out.
 
 Anyone can view our inventory on BookIt without signing in, but patrons must log into BookIt to create a reservation. BookIt interfaces with the JHU Single Sign On system (the system everyone with a JHED uses to log into myJHU, SIS, etc.) and the Active Directory system.
 
@@ -51,6 +19,9 @@ Laminated Job guides for common tasks in BookIt are located at the front desk. D
 - [Checking Spaces In/Out](https://livejohnshopkins.sharepoint.com/:b:/s/DigitalMediaCenter225/Eb8iRQHqi9RJsKtxR4af58kBL0d-Q7fVbSBwNTe5z0CXaA?e=6obxn2)
 
 ## Discord
+
+The DMC's Discord server is the Virtual Front Desk for patrons asking questions. Its staff-only channels are also frequently used for discussions, announcements, and shift sub requests.
+
 The DMC operates a popular server for patrons on [Discord](bit.ly/discorddmc). When a user joins the server, they must provide their JHU email, which will give them access to the patron-facing channels (assigning them the "patron" role).
 
 Student Staff has an additional Role that opens up staff-only channels, used for announcements, chat about DMC operations, and shift sub requests.
@@ -101,7 +72,13 @@ Pro Staff will also forward anything we'd like you to reply to or see on shift. 
 #### Using the Outlook calendar:
 The shared calendar helps us track all kinds of appointments in the DMC, especially those that reserve lab space or require student staff attention or attendance. This is especially important for special events or those in which the entire lab is reserved (like for a workshop session). 
 
-## J-Card Reader
+## Tasks
+Tasks is the DMC project management system. Here we organize team projects, submit repair tickets, and purchase requests. It’s built into Teams (though functionality is better in the browser: https://tasks.office.com/)
+
+## J-Card Kiosk
+
+The J-Card reader lives on the Front Desk and accepts J-Cash payments (the preferred method of payment at the DMC). The J-Card reader has a point-of-sale interface that automatically tallies totals for various DMC printing and consumable products. 
+
 If the J-Card reader enters "continuous check-in mode," do the following:
 1. Tap on the screen's corners in this order: top left, bottom right, top right, bottom left.
 2. Enter the code `3817`.
@@ -110,7 +87,13 @@ If you need to log into the J-Card wedge after a reboot, choose "Jason Charney" 
 
 ## Credit Card Reader
 
+The DMC has a portable wireless credit card reader that operates on cellular data. We use this device to accept payment from people without J-Cash for a small fee. We can also use it to accept payment at events if needed. 
+
+
 ## RealVNC
+
+RealVNC is the system we use to remote into the gaming computers in the LaB so we don’t have to go upstairs. Typically, this is used to enter an admin password to install/update a game. 
+
 - Patrons do not have admin rights on DMC/Gaming Loft computers and therefore must request the support of DMC staff to install software or games
 - DMC Staff are permitted to install software on DMC computers, but must use common sense! (please don't install a Yahoo! toolbar etc.)
 
@@ -144,8 +127,8 @@ HIPPO is our internal server for DMC files and can be accessed when you are conn
 
 If those file paths don't work for some reason, try the IP address (`10.166.42.124`) instead of "HW-DMC-HIPPO"
 
-### HIPPO Shares
-| Share (HIPPO/[x]) | Subfolders                               | Permissions                          |
+### HIPPO Volumes
+| Volume (HIPPO/[x]) | Subfolders                               | Permissions                          |
 |-------------------|------------------------------------------|--------------------------------------|
 | /Project          | Events and Projects<br>PR<br>Circulation | ProStaff; StuStaff                   |
 | /Workshop         |                                          | Write: ProStaff<br>Read only: anyone |
@@ -153,16 +136,36 @@ If those file paths don't work for some reason, try the IP address (`10.166.42.1
 | /Archive          |                                          | Prostaff                             |
 | /StaffHomes       | /Jason<br>/Travis<br>/Tony               | Jason<br>Travis<br>Tony              |
 
-### Events and Projects
+### Important Subfolders
+
+#### Circulation
+
+#### Events and Projects
 All files related to events and projects should live in their own folder on `HIPPO/Project/Events and Projects.`
 
 When a new project is started, add a folder in the current year with the following naming convention:
 `[Year]/[date]_[project name]/`
 
+#### PR Templates
 
-## Teams Files
+
+### Teams Files
+
+“Teams – DMC Stustaff” is where we store commonly-accessed documents such as shared passwords, consumable purchase tracking spreadsheets, some DMC project files (mostly in Microsoft Office software like Word or Excel), and files referenced in specific Tasks. Note that it's not for media-rich files like Premiere or Photoshop projects!
+
+Anything in Teams is editable and accessible by all DMC Staff, so be careful with your edits.
 
 ## HopkinsGroups
+HopkinsGroups is an integral part of the DMC's operations. We use HopkinsGroups for:
+- Tracking registrations for events and workshops
+- Enrolling new members at the DMC
+- Tracking one-time fine waivers
+- Surveying 
+- Contacting DMC members and promoting resources
+- Collaborating/co-hosting events with other departments
 
-## Social Media
+All DMC staff have some administrative ("officer") access to HopkinsGroups. Here are guides to some tasks you may be asked to complete.
 
+### Creating Events
+
+## Social Media and Promotion

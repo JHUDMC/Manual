@@ -253,4 +253,4 @@ to maintain good standing and not be at risk for termination.
 ## Training Overview
 New staff will attend a **mandatory day-long training event** where they will review the information in this manual and meet the rest of the DMC staff. Following training day new DMC employees will shadow for their first semester.
 
-All staff may attend mid-semester refresher trainings or policy update meetings.
+All staff may be asked to attend mid-semester refresher trainings or policy update meetings.

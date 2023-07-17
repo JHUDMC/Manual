@@ -35,18 +35,28 @@
   - [Training Overview](StaffProtocols.md#training-overview)
 
 ## [Systems](Systems.md)
-- Systems Overview
-    - BookIt
-    - Discord
-    - Email (Outlook)
-    - Credit Card Reader
-    - JCard Reader
-    - Tasks
-    - Real VNC
-    - HIPPO
-    - Teams Files
-    - HopkinsGroups
-    - Social Media
+- BookIt
+- Discord
+  - Discord Rules of Engagement
+- Email (Outlook)
+  - Email Best Practices
+  - Using the Outlook calendar
+- Tasks
+  - Circulation Tickets
+  - Project Tasks
+- Credit Card Reader
+- JCard Kiosk
+- RealVNC
+- HIPPO
+  - Connecting to HIPPO
+  - HIPPO Volumes
+  - Important Subfolders
+    - Circulation
+    - Events and Projects
+    - PR Templates
+- Teams Files
+- HopkinsGroups
+- Social Media and Promotion
 
 ## [Lab Operations and Facilities](LabOperations.md)
   - [Facilities Overview](LabOperations.md#facilities-overview)
@@ -64,6 +74,7 @@
     - Closing
     - Unexpected Closures
     - Lab Floorplans
+  - [New Member Orientation](LabOperations.md#new-member-orientation)
   - Equipment Checkouts
     - Checking Out Equipment
     - Checking In Equipment

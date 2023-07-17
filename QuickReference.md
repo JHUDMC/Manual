@@ -6,4 +6,6 @@
 ## passwords/logins
 ## Spreadsheets
 ## Consumables Pricing
-## FAQs
+## Frequently Asked Questions (from Patrons and Staff)
+- Creative Cloud is asking me to log in when I try to open an app. What should I do?
+- 
