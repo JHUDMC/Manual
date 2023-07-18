@@ -14,9 +14,9 @@
 #### Plugin Guide
 The Audio Studio computer has the following extra plugins available (as Audio Units):
 
-#### Manuals and Learning Resources
-
 ### VR Studio
+
+#### Vive Quick Start Guide
 
 ### Lab Projector
 The lab projector can be controlled by a remote on the column closest to the projector screen. There are two inputs on the projector, one for the wireless Crestron system which displays instructions on screen, and a direct HDMI connection that can be accessed by where the remotes are stored.
@@ -33,10 +33,9 @@ To cast to the projector from a lab computer:
 7. You may need to press "source search" on the projector remote to get to the display.
 8. No sound? Select `AM-200-00107FFD4EEF` as the audio output device in the system or specific application.
 
-
 ### 3D Printers
 
-#### Authorization
+#### 3D Printer Authorization
 ##### Step 1: [Watch the authorization Video](https://player.vimeo.com/video/672528585)
 
 ##### Step 2: "Show Me" Demo with DMC Staff
@@ -56,7 +55,8 @@ To cast to the projector from a lab computer:
  [bit.ly/dmcprusa1](http://bit.ly/dmcprusa1) and [bit.ly/dmcprusa2](http://bit.ly/dmcprusa2)
 1.  Cancel the test print with OctoPrint and remove the first layer that started depositing on the build plate. Remove the steel sheet from the bed and twist it instead of scraping it off.
 2.  Select "Unload filament" from the menu on the Prusa screen and properly secure the filament end in the spool.
-#### Tips and Troubleshooting
+
+#### 3D Printer Tips and Troubleshooting
 
 ### Printers
 
@@ -67,18 +67,22 @@ To cast to the projector from a lab computer:
 ##### Epson P9880
 ##### Epson P9000
 ##### HP DesignJet Z5600
-##### Troubleshooting
+##### Poster Printer Troubleshooting
 
 #### Inkjet Photo Printers
 ##### Epson P5000
-###### Troubleshooting
+###### P5000 Troubleshooting
 ##### Canon Pixma Pro 100
-###### Troubleshooting
 ###### Printing with Specialty Paper
+###### Pixma Troubleshooting
 
 ### Roland GX-24 Vinyl Cutter
 
 ### Cricut Maker
+
+### Brother Digital Embroiderer
+
+### Sewing Machines
 
 ### Epson Perfection V700 Flatbed Scanner
 The Epson Perfection V700 scanner is plugged into the Graphics specialty workstation. can be used with the Graphics 

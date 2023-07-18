@@ -248,7 +248,8 @@ to maintain good standing and not be at risk for termination.
 - Achieve proficiency in all skills listed on the Front Desk Skill Demonstration check list.
 - Become authorized to use all special equipment categories.
 - Work additional hours to support DMC events and participate in special projects.
-- Further develop creative and technical skills for their own interests and to better serve our patrons. Demonstrate their progress during periodic performance reviews with Pro Staff. 
+- Further develop creative and technical skills for their own interests and to better serve our patrons.
+- Demonstrate their progress during periodic performance reviews with Pro Staff. 
 
 ## Training Overview
 New staff will attend a **mandatory day-long training event** where they will review the information in this manual and meet the rest of the DMC staff. Following training day new DMC employees will shadow for their first semester.

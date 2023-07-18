@@ -99,7 +99,7 @@ A task in this bucket documents an outstanding charge for a patron. It may be li
 Pro Staff will move tasks to this bucket if an issue is outstanding but no action needs to be taken in the near future.
 
 ### Project Tasks
-This plan is used for tracking semester-long projects or work for staff to complete on Project Shifts and during downtime on shifts. Both Pro Staff and Stu Staff Managers may assign tasks in this bucket to specific people.
+This plan is used for tracking long-term projects or work for staff to complete during downtime and on Project Shifts. Both Pro Staff and Stu Staff Managers may assign tasks in this bucket to specific people.
 
 ### Tasks Best Practices & Reminders
 - **Each Task should have a short, descriptive title.** This may be updated if the task changes categories, but should give a clear description to any staff member about the issue. Remember to include item barcodes if necessary!
@@ -115,7 +115,7 @@ If the J-Card reader enters "continuous check-in mode," do the following:
 1. Tap on the screen's corners in this order: top left, bottom right, top right, bottom left.
 2. Enter the code `3817`.
 
-If you need to log into the J-Card wedge after a reboot, choose "Jason Charney" as the user and enter code "3817."
+If you need to log into the J-Card wedge after a reboot, choose "Jason Charney" as the user and enter code `3817`.
 
 ### Credit Card Reader
 
@@ -208,6 +208,7 @@ If those file paths don't work for some reason, try the IP address (`10.166.42.1
 ### Important Subfolders
 
 #### Circulation
+This folder contains templates and media for circulating equipment resources, such as kit pics, quick start guides, item tags, and pictures for BookIt. There are also media project folders for Authorization videos in progress.
 
 #### Events and Projects
 All files related to events and projects should live in their own folder on `HIPPO/Project/Events and Projects.`
@@ -215,8 +216,10 @@ All files related to events and projects should live in their own folder on `HIP
 When a new project is started, add a folder in the current year with the following naming convention:
 `[Year]/[date]_[project name]/`
 
-#### PR Templates
+These folders should contain production preparation materials, marketing collateral (including social media posts and anything made in Canva), and documentation from the event.
 
+#### PR & Marketing - TEMPLATES ONLY
+[add description]
 
 ### Teams Files
 
@@ -234,6 +237,10 @@ HopkinsGroups is an integral part of the DMC's operations. We use HopkinsGroups 
 - Collaborating/co-hosting events with other departments
 
 All DMC staff have some administrative ("officer") access to HopkinsGroups. Here are guides to some tasks you may be asked to complete.
+
+### Badges
+
+[info here]
 
 ### Creating Events
 
