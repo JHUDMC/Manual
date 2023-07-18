@@ -44,13 +44,13 @@ To cast to the projector from a lab computer:
    - Autoload filament: push into top and select filament type on screen. Print head will start heating and pull filament in automatically.
    - Confirm that the material is extruding correctly from the print head.
 3. Log into the shared dmc3D account on the computer by the 3D printers 
-   - Username: dmc3D PW: dmc3Dpatron
+   - Username: `dmc3D` PW: `dmc3Dpatron`
 4. Log into the OctoPrint web interface 
-   - Username: dmc3D PW: dmc3Dpatron
+   - Username: `dmc3D` PW: `dmc3Dpatron`
    - There is a shortcut on the dmc3D account's desktop for each printer, or you can open [10.166.42.107](http://10.166.42.107) in a web browser (for Prusa 1) or [10.166.42.19](http://10.166.42.19) (for Prusa 2)
-5. Check the connection to the printer in OctoPrint using the "Connection" module in the sidebar. If it is not connected, press "Connect."
+5. Check the connection to the printer in OctoPrint using the "Connection" module in the sidebar. If it is not connected, press `Connect`.
 6. Slice and send a print from PrusaSlicer to the OctoPrint server. Make sure the correct printer is selected in PrusaSlicer before slicing!
-7. There's a little "G" with an arrow in the lower right hand corner of the PrusaSlicer Interface. This is the button to click.
+7. There's a little ![This is the button to click](media/PrusaGarrow.png) button in the lower right hand corner of the PrusaSlicer Interface. Click this.
 8. Look at the webcam stream you can see anywhere on campus (or VPN into Hopkins)
  [bit.ly/dmcprusa1](http://bit.ly/dmcprusa1) and [bit.ly/dmcprusa2](http://bit.ly/dmcprusa2)
 1.  Cancel the test print with OctoPrint and remove the first layer that started depositing on the build plate. Remove the steel sheet from the bed and twist it instead of scraping it off.
