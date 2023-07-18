@@ -105,9 +105,8 @@ When the university closes due to bad weather or a dangerous situation, the DMC 
 
 If the University deems it unsafe for students to go outside this means you are not allowed in the DMC without special permission.  Once the 'all clear' has been communicated, you are expected to resume your regularly scheduled work shifts. Alerts will be communicated through university email, text messages, and on the alerts web page. https://www.jhu.edu/alert/   Please check your email for a message from DMC ProStaff confirming the University closure and any additional concerns. 
 
-### Lab Floorplans
-[image for opening]
-[image for closing]
+### Lab Floorplan
+![Opening and Closing Floorplan](media/DMC-FloorPlan-2023.png)
 
 ---
 ## New Member Orientation
@@ -214,7 +213,7 @@ If a patron has multiple items on multiple bookings, make sure they renew each i
 
 Before renewing, check the Internal Notes on the item booking to see how many times it's been renewed.
 
-Renewing items on BookIt:
+UPDATE THIS: Change the item's return time
 
 ### Overdue Items
 It’s important to stay on top of overdue items before they affect future reservations for other patrons. On shift, please keep track of overdue items in BookIt and call patrons on the front desk phone with overdue items. If you can’t get in touch with them, shoot them an email using the dmcstaff@jhu.edu email account so all staff can monitor the response. 
