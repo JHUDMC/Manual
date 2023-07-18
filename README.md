@@ -53,22 +53,23 @@
   - [Important Subfolders](Systems.md#important-subfolders)
     - [Circulation](Systems.md#circulation)
     - [Events and Projects](Systems.md#events-and-projects)
-    - [PR Templates](Systems.md#pr-templates)
+    - [PR & Marketing - TEMPLATES ONLY](Systems.md#pr--marketing---templates-only)
 - [Teams Files](Systems.md#teams-files)
 - [HopkinsGroups](Systems.md#hopkinsgroups)
+  - [Badges](Systems.md#badges)
   - [Creating events](Systems.md#creating-events)
 - [Social Media and Promotion](Systems.md#social-media-and-promotion)
 
 ## [Lab Operations and Facilities](LabOperations.md)
   - [Facilities Overview](LabOperations.md#facilities-overview)
-    - The Lab
-      - Lab Computers and specialty workstations
-    - Equipment Cage
-    - Audio Studio
-    - Project Space
-    - Multi-Use VR Space
-    - Game Loft Overview
-    - Storage Spaces
+    - Lab Computers and specialty workstations
+    - [Equipment Cage](LabOperations.md#equipment-cage)
+    - [Audio Studio](LabOperations.md#audio-studio)
+    - [Maker Counter](LabOperations.md#maker-counter)
+    - [Project Space](LabOperations.md#project-space)
+    - [Multi-Use VR Space](LabOperations.md#multi-use-vr-space)
+    - [Gaming Loft](LabOperations.md#gaming-loft)
+    - [Storage Spaces](LabOperations.md#storage-spaces)
   - [Daily Operations](LabOperations.md#daily-operations)
     - [Opening](LabOperations.md#opening)
     - [During Shift](LabOperations.md#during-shift)
@@ -84,59 +85,60 @@
     - [Overdue Items](LabOperations.md#overdue-items)
     - [Missing and Broken Items](LabOperations.md#missing-and-broken-items)
     - [Fines](LabOperations.md#fines)
-      - Late Returns
-      - Late Fine Waiver
-      - Missing and Broken Item Fines
+      - [Late Returns](LabOperations.md#late-returns)
+      - [Late Fine Waiver](LabOperations.md#late-fine-waiver)
+      - [Missing and Broken Item Fines](LabOperations.md#missing-and-broken-item-fines)
   - [Payments](LabOperations.md#payments)
-    - Sales Tax
-    - Fines & Registration Fees
-    - Consumable Items
-    - Poster & 3D Printing Logs
-    - JHU Budget Codes
+    - [Sales Tax](LabOperations.md#sales-tax)
+    - [Fines & Registration Fees](LabOperations.md#fines--registration-fees)
+    - [Consumable Items](LabOperations.md#consumable-items)
+    - [Poster & 3D Printing Logs](LabOperations.md#poster--3d-printing-logs)
+    - [JHU Budget Codes](LabOperations.md#jhu-budget-codes)
   - [Authorizations Overview](LabOperations.md#authorizations-overview)
   
 ## [Resource Guides and Troubleshooting](ResourceGuides.md)
 *In-Lab*
 - [Audio Studio](ResourceGuides.md#audio-studio)
-  - Authorization
-  - Tips and Troubleshooting
-  - Signal Map
-  - Plugin Guide
+  - [Authorization](ResourceGuides.md#authorization)
+  - [Tips and Troubleshooting](ResourceGuides.md#tips-and-troubleshooting)
+  - [Signal Map](ResourceGuides.md#signal-map)
+  - [Plugin Guide](ResourceGuides.md#plugin-guide)
 - [VR Studio](ResourceGuides.md#vr-studio)
-  - Quick Start Guide
+  - [Vive Quick Start Guide](ResourceGuides.md#vive-quick-start-guide)
 - [Lab Projector](ResourceGuides.md#lab-projector)
-- [Television](ResourceGuides.md#television)
 - [3D Printers](ResourceGuides.md#3d-printers)
-  - Authorization
-  - Tips and Troubleshooting
-- Printers
-  - Pharos/Laser Printer
-  - Poster Printers
-    - Epson P9880
-    - Epson P9000
-    - HP DesignJet Z5600
-    - Troubleshooting
-  - Inkjet Photo Printers
-    - Epson P5000
-      - Troubleshooting
-    - Canon Pixma Pro 100
-      - Troubleshooting
-      - Printing with Specialty Paper
-- Roland GX-24 Vinyl Cutter
-- Cricut Maker
-- Brother Digital Embroiderer
-- Epson Perfection V700 Flatbed Scanner
+  - [3D Printer Authorization](ResourceGuides.md#3d-printer-authorization)
+  - [3D Printer Tips and Troubleshooting](ResourceGuides.md#3d-printer-tips-and-troubleshooting)
+- [Printers](ResourceGuides.md#printers)
+  - [Pharos/Laser Printer](ResourceGuides.md#pharoslaser-printer)
+  - [Poster Printers](ResourceGuides.md#poster-printers)
+    - [Epson P9880](ResourceGuides.md#epson-p9880)
+    - [Epson P9000](ResourceGuides.md#epson-p9000)
+    - [HP DesignJet Z5600](ResourceGuides.md#hp-designjet-z5600)
+    - [Poster Printer Troubleshooting](ResourceGuides.md#poster-printer-troubleshooting)
+  - [Inkjet Photo Printers](ResourceGuides.md#inkjet-photo-printers)
+    - [Epson P5000](ResourceGuides.md#epson-p5000)
+      - [P5000 Troubleshooting](ResourceGuides.md#p5000-troubleshooting)
+    - [Canon Pixma Pro 100](ResourceGuides.md#canon-pixma-pro-100)
+      - [Printing with Specialty Paper](ResourceGuides.md#printing-with-specialty-paper)
+      - [Pixma Troubleshooting](ResourceGuides.md#pixma-troubleshooting)
+
+- [Roland GX-24 Vinyl Cutter](ResourceGuides.md#roland-gx-24-vinyl-cutter)
+- [Cricut Maker](ResourceGuides.md#cricut-maker)
+- [Brother Digital Embroiderer](ResourceGuides#brother-digital-embroiderer)
+- [Sewing Machines](ResourceGuides.md#sewing-machines)
+- [Epson Perfection V700 Flatbed Scanner](ResourceGuides.md#epson-perfection-v700-flatbed-scanner)
 
 *Circulating Equipment Authorizations*
-- Beginner DSLR Cameras
-- Advanced DSLR Cameras
-- Tripods
-- Lenses
-- Advanced Light Kit
-- Sony FS5 Camera
-- Atomos Video Monitor
-- PA Systems
-- Mixers
+- [Beginner DSLR Cameras](ResourceGuides.md#beginner-dslr-cameras)
+- [Advanced DSLR Cameras](ResourceGuides.md#advanced-dslr-cameras)
+- [Tripods](ResourceGuides.md#tripods)
+- [Lenses](ResourceGuides.md#lenses)
+- [Advanced Light Kit](ResourceGuides.md#advanced-light-kit)
+- [Sony FS5 Camera](ResourceGuides.md#sony-fs5-video-camera)
+- [Atomos Video Monitor](ResourceGuides.md#atomos-video-monitor)
+- [PA Systems](ResourceGuides.md#pa-systems)
+- [Mixers](ResourceGuides.md#mixers)
 
 ## [Circulating Resource Management](CirculatingResourceManagement.md)
 - [Circulation Room](CirculatingResourceManagement.md#circulation-room)

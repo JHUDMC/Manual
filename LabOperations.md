@@ -2,9 +2,6 @@
 
 ## Facilities Overview
 
-### The DMC lab
-The DMC's main space comprises a computer lab with projector and television, 3D printers, laser printer, inkjet printers, maker counter, Project Space with a Cricut and sewing, and embroidery machine, an Audio Studio, VR and small video production studio, and an equipment checkout counter.
-
 ### Lab Computers and Specialty Stations
 At the heart of the DMC is our computer lab featuring a variety of specialized Mac and PC workstations with a full complement of commercial and professional-grade software for completing tasks related to audio, video, photography, animation, 3D modeling, and graphic design for both web-based & multimedia projects. Check each computer's [BookIt listing](https://bookit.dmc.jhu.edu/reserve/InLabComputers) for more information on its complement on software and extra peripherals.
 
@@ -17,7 +14,9 @@ This acoustically-treated studio is equipped with professional monitor speakers,
 
 The use of the studio requires authorization from a trained DMC staff member.
 
-More information about the Audio Studio's hardware and software are on [BookIt](https://bookit.dmc.jhu.edu/space/136534). 
+More information about the Audio Studio's hardware and software are on [BookIt](https://bookit.dmc.jhu.edu/space/136534).
+
+### Maker Counter
 
 ### Project Space
 The Project Space  houses tools for light fabrication and textile work, including a dressform, iron and ironing board, and digital embroiderer. A tool chest has several hand tools like screwdrivers, hammers, and miter box. 
@@ -305,4 +304,5 @@ How to authorize a member:
 - If they have mastered the skills to your satisfaction, add them to the authorization group on the Active Directory tool and to allow them to reserve the gear.
 - You may also remind them that just because they can safely operate the equipment doesn't mean they can make great art and suggest they take some inspiring workshops or arrange for one-on-one training by an experienced StuStaffer or for mentoring by a ProStaffer.
 
+Check the [Resource Guide](ResourceGuides.md) page for guides to authorization on specific equipment.
 
