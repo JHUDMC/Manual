@@ -75,7 +75,7 @@
     - [During Shift](LabOperations.md#during-shift)
     - [Closing](LabOperations.md#closing)
     - [Unexpected Closures](LabOperations.md#unexpected-closures)
-    - [Lab Floorplans](LabOperations.md#lab-floorplans)
+    - [Lab Floorplan](LabOperations.md#lab-floorplans)
   - [New Member Orientation](LabOperations.md#new-member-orientation)
   - [Equipment Checkouts](LabOperations.md#equipment-checkouts)
     - [Checking Out Equipment](LabOperations.md#checking-out-equipment)

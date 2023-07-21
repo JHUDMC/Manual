@@ -9,7 +9,7 @@
 #### Tips and Troubleshooting
 
 #### Signal Map
-![Audio Studio Signal Flow 2023](https://github.com/JHUDMC/Manual/blob/b106c86cf1ad9e11b76c5f76fe092c2b91169bb5/media/Audio%20Studio%20Signal%20Flow%202023.png)
+![Audio Studio Signal Flow 2023](media/Audio%20Studio%20Signal%20Flow%202023.png)
 
 #### Plugin Guide
 The Audio Studio computer has the following extra plugins available (as Audio Units):
@@ -85,7 +85,8 @@ To cast to the projector from a lab computer:
 ### Sewing Machines
 
 ### Epson Perfection V700 Flatbed Scanner
-The Epson Perfection V700 scanner is plugged into the Graphics specialty workstation. can be used with the Graphics 
+The Epson Perfection V700 scanner is plugged into the Graphics specialty workstation.
+[info on how to scan goes here] 
 ---
 
 ## *Circulating Equipment Authorizations*
