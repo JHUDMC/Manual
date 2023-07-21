@@ -58,15 +58,10 @@ Pro Staff will also forward anything we'd like you to reply to or see on shift. 
 #### Email Best Practices:
 
 - Respond with your name + “& The DMC” at the bottom of the email (e.g. “Quack & The DMC”). Only send the email after you've taken action; for example, renewing a booking in BookIt.
-
 - After you respond to an email, please *Archive* it (NOT Delete it).
-
 - If you open but do not act on an email, mark it "unread" in the Inbox.
-
 - If an email is time sensitive and you have questions before you respond to it, reach out to Pro Staff or fellow Student Staff.
-
 - If an email is sitting as "read" in the Inbox but you're unsure if it's been acted upon, check to see if there's a reply in the "Sent" box.
-
 - Use Outlook's ["My Templates"](https://answers.microsoft.com/en-us/outlook_com/forum/all/outlook-web-access-my-templates/b0d7f655-31a1-4c7f-bb22-10373498aca9) feature to quickly access language for common emails (like late item reminders).
 
 #### Using the Outlook calendar:
