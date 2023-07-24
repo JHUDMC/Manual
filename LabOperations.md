@@ -213,7 +213,7 @@ If a patron has multiple items on multiple bookings, make sure they renew each i
 
 Before renewing, check the Internal Notes on the item booking to see how many times it's been renewed.
 
-UPDATE THIS: Change the item's return time
+UPDATE THIS: Change the item's return time in BookIt and enable email notification, etc.
 
 ### Overdue Items
 It’s important to stay on top of overdue items before they affect future reservations for other patrons. On shift, please keep track of overdue items in BookIt and call patrons on the front desk phone with overdue items. If you can’t get in touch with them, shoot them an email using the dmcstaff@jhu.edu email account so all staff can monitor the response. 

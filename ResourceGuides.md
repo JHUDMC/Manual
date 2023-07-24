@@ -7,7 +7,13 @@
 [This illustrated guide](https://livejohnshopkins.sharepoint.com/:w:/s/DigitalMediaCenter225/EXS9dc6ti3NJrJeKm-3e1mIBW1_VtyuYvN6k5nPdrw2naQ?e=kMnIwL) lives in the Audio Studio for patron reference. The authorization process can be completed by a trained student staffer and takes between 30-45 minutes. 
 
 #### Tips and Troubleshooting
+Here are some common problems with the Audio Studio and how to solve them.
 
+- *"I’m not getting any audio in the speakers from my DAW when my track is playing back."*
+  - Check the preferences for your software and make sure it’s using the Scarlett 18i20 USB interface as the input/output audio device. Also, make sure the monitor speakers are not muted the volume knob is turned up!
+  - If that doesn't work, try resetting the routing in the Focusrite Control software (`File -> Output Presets -> System Playback` in the menu bar)
+- *"My microphone is plugged in and the gain is turned up, but I’m not seeing any signal from it!*
+  - Condenser microphones need *phantom power* supplied by the Scarlett. Press the “48 V” buttons on the Scarlett to turn on phantom power for channels 1-4 or 5-8.
 #### Signal Map
 ![Audio Studio Signal Flow 2023](media/Audio%20Studio%20Signal%20Flow%202023.png)
 
@@ -15,8 +21,20 @@
 The Audio Studio computer has the following extra plugins available (as Audio Units):
 
 ### VR Studio
+The multi-use VR studio is a space that can be freely configured depending on the patron's need. It contains a set of "endless" backdrops for photo/video recording, a whiteboard with a table and chairs, a TV on a wheeled cart, and a room-scale HTC Vive Pro VR System.
 
 #### Vive Quick Start Guide
+
+1. ***Important for safety: Clear the area within the tape on the floor!***
+2. If needed, plug in the TV cart power strip and the computer's ethernet cable into the wall jack.
+3. Turn on the VR computer. The `dmcgamer` account should log in automatically.
+4. Take the Vive wireless headset from the wall. Plug the USB-A/USB-A cable from the battery pack to the wireless receiver and press the power button on top of the battery pack. The green LED on the headset's wireless receiver should start blinking.
+5. Start the `VIVE Wireless` app (shortcut on the Desktop) and make sure it's connected to the headset. Please note that the headset must be a few feet away from the wireless receiver perched on the top of the TV in order to register as connected.
+6. Secure the battery pack to your belt or place it securely in your pocket.
+7. Start `SteamVR` app (shortcut on the Desktop). The app's indicators show the connection between the headset, the room sensors, and the two controllers. Press the button on each controller to turn it on.
+8. Launch your games from SteamVR!
+
+After playing VR, please shut down the computer and unplug the USB cable from the battery pack, and return the controllers, battery pack, and wireless keyboard to the charging station on the TV cart. Hang the Vive headset on the wall hook.
 
 ### Lab Projector
 The lab projector can be controlled by a remote on the column closest to the projector screen. There are two inputs on the projector, one for the wireless Crestron system which displays instructions on screen, and a direct HDMI connection that can be accessed by where the remotes are stored.
