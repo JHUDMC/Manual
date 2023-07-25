@@ -42,7 +42,9 @@ From time to time, the entire staff or a subgroup will meet for operational or s
 Each Student Staffer will meet once a semester with the Pro Staff to review the employee’s performance and discuss opportunities for further training or changes in duties. In addition, all ProStaff are willing and eager to meet with Student Staff at any time to discuss concerns, questions, or suggestions.
 
 ## Maryland Sick and Safe Leave
-Eligible staff and students earn 1 hour of Maryland Sick and Safe Leave (MDSS) for every 30 hours worked up to a maximum of 80 hours per fiscal year (July 1 – June 30). The leave is protected and must be granted if accrued sick leave is available at the time of the request. 
+Eligible staff and students earn 1 hour of Maryland Sick and Safe Leave (MDSS) for every 30 hours worked up to a maximum of 80 hours per fiscal year (July 1 – June 30). The leave is protected and must be granted if accrued sick leave is available at the time of the request.
+
+To request MDSS, contact Pro Staff directly (to protect your privacy, don't post on Discord).
 
 To be eligible for paid MDSS, the hourly paid staff or student: 
 
@@ -63,6 +65,8 @@ Covered reasons:
 - Maternity or paternity leave 
 - Leave that is necessary due to domestic violence, sexual assault or stalking or the need to relocate or receive services. 
 - Public health emergency
+
+For more information, refer to the full [JHU Sick and Safe Leave Policy](https://policies.jhu.edu/doc/fetch.cfm/fhuemxX3).
 
 ## Discipline and Termination
 ### Fireable Offenses

@@ -18,6 +18,10 @@
     - [Shifts in Teams](JHUStudentEmployment.md#shifts-in-teams)
 
 ## [Staff Protocols](StaffProtocols.md)
+  - [DMC Staff Structure](StaffProtocols.md#dmc-staff-structure)
+    - [Professional Staff](StaffProtocols.md#professional-staff-pro-staff)
+    - [Student Staff](StaffProtocols.md#student-staff-stu-staff)
+  - [Shift Types](StaffProtocols.md#shift-types)
   - [Security](StaffProtocols.md#Security)
     - [Emergencies](StaffProtocols.md#emergencies)
     - [Evacuation Procedures](StaffProtocols.md#evacuation-procedures)
@@ -30,6 +34,8 @@
     - [In-Lab Teaching](StaffProtocols.md#in-lab-teaching)
   - [DMC Member Agreement](StaffProtocols.md#dmc-member-agreement)
   - [Other Tasks](StaffProtocols.md#other-tasks)
+  - [Student Managers](StaffProtocols.md)
+  - [Project Shifts](StaffProtocols.md)
   - [New Employees Overview](StaffProtocols.md#new-employees)
   - [Training Overview](StaffProtocols.md#training-overview)
 
@@ -59,6 +65,7 @@
   - [Badges](Systems.md#badges)
   - [Creating events](Systems.md#creating-events)
 - [Social Media and Promotion](Systems.md#social-media-and-promotion)
+  - [Adding events to The Hub]
 
 ## [Lab Operations and Facilities](LabOperations.md)
   - [Facilities Overview](LabOperations.md#facilities-overview)

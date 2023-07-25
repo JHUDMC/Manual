@@ -1,5 +1,44 @@
 # Staff Protocols
 
+## DMC Staff Structure
+The DMC is part of the [Office of Arts and Innovation](https://studentaffairs.jhu.edu/homewoodarts/), a division of [Johns Hopkins University Student Affairs](https://studentaffairs.jhu.edu/).
+
+The DMC's staff consists of two groups:
+
+### Professional Staff ("Pro Staff"):
+
+**Associate Director – Tony Lugo**
+
+The Associate Director of the DMC [description here]
+
+**Program Coordinator – Travis Levasseur**
+
+The Program Coordinator [description here]
+
+**Multimedia Specialist – Jason Charney**
+
+The Multimedia Specialist [description here]
+
+### Student Staff ("Stu Staff"):
+
+**Multimedia Assistants**:
+
+[description here]
+
+**Multimedia Managers**
+
+[description here]
+
+Managers are hired from Student Staff yearly. To be eligible for the Manager position, student staff must have worked for the DMC for at least one year (two semesters).  Like all Student Staff, Managers work front desk and project shifts, but are responsible for leading DMC projects and helping with all-staff training events. The position requires a monthly meeting for planning event.
+
+## Shift Types
+
+### Front Desk
+
+### Project
+
+### Event/Extra
+
 ## Security
 Student Staff are often the primary (and sometimes sole) safeguards of the resources and members of the DMC. You are expected to always use good judgment and monitor the lab and its users for potential hazards, such as unsafe equipment (cables in walkways) and unsafe behavior (unruly people who refuse to leave).
 
@@ -14,6 +53,7 @@ As our valued employees, however, we want you to place your own safety and welfa
 ## Emergencies
 - **In case of fire:** evacuate the building; call 410-516-7777 or 911 (JHU phone only)
 - **Serious injuries:** call Public Safety's emergency line at 410-516-7777 or 911 (JHU phone only)
+- **Facilities:** Water leaks, broken windows, etc. should be reported to JHU Security at 410-516-7777, who will contact appropriate maintenance crews. Respond as necessary to protect DMC equipment and personnel. Also let Pro Staff know ASAP.
 
 It is the policy of The Johns Hopkins University that all incidents which result in an injury to faculty, staff, students, or visitors shall be appropriately documented and reported using the following guidelines:
 
@@ -74,6 +114,8 @@ To maintain an atmosphere conducive to work for all students who use the DMC, we
 
 ## DMC Member Agreement
 All patrons of the DMC must fill a form acknowledging they agree to these agreeing to the policies below. Completing this form (and paying the membership fee, if applicable) allows them full access to DMC resources for the duration of their enrollment at Johns Hopkins-affiliated schools. This agreement also applies to student staff who use DMC resources.
+
+This agreement is presented to new patrons when they complete the [DMC Member Application](https://cglink.me/2dh/s82182).
 
 > Member Agreement to Digital Media Center Policies and Procedures 
 
@@ -223,7 +265,7 @@ Aside from answering the phone and helping patrons with check outs and returns, 
 
 ## New Employees
 
-Newbies go through a **4-week shadowing period** where they **complete the newbie checklist** with the aid of veteran staff. During the shadowing period, newbies should aim to work with at least **three** different veteran staffers. Veteran staff will encourage Newbies to practice these skills when the situation arises or should create a scenario for them to practice the skills on the checklist. 
+Newbies go through a **4-week shadowing period** where they **complete the shadowing checklist** with the aid of veteran staff. During the shadowing period, newbies should aim to work with at least **three** different veteran staffers. Veteran staff will encourage Newbies to practice these skills when the situation arises or should create a scenario for them to practice the skills on the checklist. 
 
 Newbies must demonstrate competencies during: 
 
@@ -252,6 +294,6 @@ to maintain good standing and not be at risk for termination.
 - Demonstrate their progress during periodic performance reviews with Pro Staff. 
 
 ## Training Overview
-New staff will attend a **mandatory day-long training event** where they will review the information in this manual and meet the rest of the DMC staff. Following training day new DMC employees will shadow for their first semester.
+New staff will attend a **mandatory day-long training event** where they will review the information in this manual and meet the rest of the DMC staff. Following training day new DMC employees will shadow for their first semester. 
 
 All staff may be asked to attend mid-semester refresher trainings or policy update meetings.

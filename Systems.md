@@ -223,6 +223,7 @@ These folders should contain production preparation materials, marketing collate
 Anything in Teams is editable and accessible by all DMC Staff, so be careful with your edits.
 
 ## HopkinsGroups
+
 HopkinsGroups is an integral part of the DMC's operations. We use HopkinsGroups for:
 - Tracking registrations for events and workshops
 - Enrolling new members at the DMC

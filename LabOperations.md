@@ -119,7 +119,7 @@ If the University deems it unsafe for students to go outside this means you are 
 
 ### Steps to making someone a patron of the DMC: 
 
-The "DMC Member Questionnaire" includes our new member video, a brief set of questions affirming that the applicant has watched the video, and our membership agreement. 
+The "[DMC Membership Application](https://cglink.me/2dh/s82182)" includes our new member video, a brief set of questions affirming that the applicant has watched the video, and our membership agreement. 
 1. Have them navigate to https://cglink.me/2dh/s82182 on their phone, any computer, or in an Incognito window on the booking kiosk. 
 2. They should sign into HopkinsGroups and click "Existing Users: Sign In" to log in with their JHED and password. (They should already be registered in HopkinsGroups if they're a Homewood student.)
 3. After they've completed the questionnaire, they should have a "DMC Member Badge" affirming their membership. 
@@ -256,10 +256,18 @@ All fines and consumables purchases at the DMC can be paid for using J-Cash, cre
 **Please note that the paying with a credit card requires an additional $1 fee on top of the total amount (including sales tax)!** We really prefer J-Cash. You can encourage patrons to [load more J-Cash on their cards](https://studentaffairs.jhu.edu/jcard/j-cash/refill-jcard/) prior to making a purchase.
 
 #### Sales Tax
-[need info here!]
+Maryland state sales tax is 6%.
+
+Sales tax should be charged when a patron pays for consumable media items (batteries, paper) or prints (3D/poster) using J-Cash with their own card.
+
+Sales tax is calculated automatically when using the buttons on the J-Card kiosk to tally consumable items. You can also use the J-Card kiosk to calculate the total cost of a purchase for the credit card machine (don't forget to add the $1 fee after sales tax has been calculated).
+
+Sales tax should *not* be charged when:
+- A patron pays a late fine, item replacement fine, or $50 membership fee.
+- A patron uses an internal budget code/cost center for ANY item purchase.
 
 #### Fines & Registration Fees
-New members who are not full-time Homewood students are required to pay a one-time $50 membership fee which can be paid at our Front Desk. We also accept fine payments for late returns, missing & broken items, and occasional special events. Please note that any fees should never have sales tax attached and receipts for any fees should be printed and put in Travis' box.
+New members who are not full-time Homewood students are required to pay a one-time $50 membership fee which can be paid at our Front Desk. We also accept fine payments for late returns, missing & broken items, and occasional special events. Please note that any fees should never have sales tax attached and receipts for any fees should be printed and put in the Program Coordinator's mailbox.
 
 #### Consumable Items
 The DMC provides consumable media and supplies for purchase from the front desk. Most is charged by item. An up-to-date list of current prices is located on the Student Staff Teams site, on the front desk printer, and on the [DMC's website](https://studentaffairs.jhu.edu/dmc/printing/).
