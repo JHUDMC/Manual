@@ -22,7 +22,7 @@ The DMC circulates almost 1,000 individual items, many of which are complicated 
   - Manufacturer/Model (not all items will have)
   - Asset Tag (item location within the cage)
 
-- Create a [mail merge document](https://support.microsoft.com/en-us/topic/how-to-use-the-mail-merge-feature-in-word-to-create-and-to-print-form-letters-that-use-the-data-from-an-excel-worksheet-d8709e29-c106-2348-7e38-13eecc338679) that generates an individual sheet for each resource with information pulled from the spreadsheet. You can use this [template](https://livejohnshopkins.sharepoint.com/:w:/s/DigitalMediaCenter225/EWa-w3b4nMdOi3i9b5hgycsBWJsWrm4k0sVeVj8dpYSYnQ?e=NCgzQG) (the words in ``« »`` correspond to merge fields from the spreadsheet).
+- Create a [mail merge document](https://support.microsoft.com/en-us/topic/how-to-use-the-mail-merge-feature-in-word-to-create-and-to-print-form-letters-that-use-the-data-from-an-excel-worksheet-d8709e29-c106-2348-7e38-13eecc338679) that generates an individual sheet for each resource with information pulled from the spreadsheet. You can use this [template](media/Inventory%20Template.docx) (the words in ``« »`` correspond to merge fields from the spreadsheet).
 - Print every single sheet (lots of paper!) The Phase 1 process is entirely physical and is digitized after all physical items are inspected. You may want to skip the invidiual sheets for single-component simple items like audio adapters -- simply print a separate spreadsheet to mark them off as you complete them.
 - Sort the sheets into broad category folders, keeping identical items/those that are part of the same "Main Item Records" clipped together.
 
@@ -48,3 +48,22 @@ Once "Quick Fix" items are complete, they can be moved to "Repair/Purchase" if f
 
 ## Kit Pics and Quick Start Guides
 
+### Kit Pic
+Kit Pics are visual inventories included with circulating items. They help patrons and staff identify individual components within a kit as they complete the checkout receipt.
+
+Kit pics should be included in kits that have:
+- Small, similar looking parts (e.g. Ronin RSII camera gimbal)
+- Parts with specialized names that are not immediately identifiable to a layperson. (rule of thumb: if your mom couldn't identify it without help, it should have a kit pic)
+
+Creating a kit pic:
+- Make a folder in **[directory here]** for the Kit Pic InDesign file, component pictures, and finished PDF. Save a new InDesign file from the **[template]**.
+- Find or take photos for each component and save them in the Teams file folder with the InDesign file. Component pictures on the kit pic should:
+  - **Look like the components in the kit.** Many parts can be made by different manufacturers and have different finishes. Try to find a picture online that matches the item in the kit, or take your own photo of the item!
+  - **Have the same name as the component list.** This is what prints on the receipt the patron completes during a checkout (and appears on the `Kit Contents` page of each item in the public BookIt listing). The caption under the picture of a component should match exactly with the name of the component on the list.
+  - You may need to use Photoshop to remove the backgrounds of any component photos you take or find on the Internet.
+- `Place` the photos in the appropriate content boxes and resize them to fit.
+- Make sure the barcodes on each page are correct, especially if preparing new kit pics for multiple similar kits.
+- Print the kit pic in color and double-sided on regular paper, making sure it's the correct quarter-page size.
+- Cut the pages out and laminate them, and then put a grommet and washer on each page where indicated.
+- Bind together with a zip-tie or ring (you can find them in the Circ Room).
+- Put in the kit and update the Maintenance Log and mark the assigned Task as complete.

@@ -14,9 +14,9 @@ Anyone can view our inventory on BookIt without signing in, but patrons must log
 After new patrons complete registration on HopkinsGroups, DMC staff adds them to the corresponding Active Directory groups using the custom "AD for DMC Equipment Approvers" app (see guide below). Patrons can check their membership status and authorizations using the [Authorization Lookup Tool](https://teams.microsoft.com/l/entity/8dfefe72-3c10-466a-8242-0b79a2d7ac59/_djb2_msteams_prefix_4218721136?context=%7B%22subEntityId%22%3Anull%2C%22channelId%22%3A%2219%3A84be967fe46e44f988912b8e334feaf7%40thread.skype%22%7D&groupId=a60cf059-d221-4e68-982a-585d03682213&tenantId=9fa4f438-b1e6-473b-803f-86f8aedf0dec&allowXTenantAccess=false).
 
 Laminated Job guides for common tasks in BookIt are located at the front desk. Digital copies may be accessed here:
-- [Adding Members and Authorizations](https://livejohnshopkins.sharepoint.com/:b:/s/DigitalMediaCenter225/EV0UJaH8EhhLuWTBIp6lPSQBGwft6dcDOGP-rvulpo37EQ?e=K9rVRY)
-- [Checking Out Equipment](https://livejohnshopkins.sharepoint.com/:b:/s/DigitalMediaCenter225/EREfAmebem5MruriZPVdZzYBxQGjAi_0KYaEVfPXgLJHlA?e=CxKvt8)
-- [Checking Spaces In/Out](https://livejohnshopkins.sharepoint.com/:b:/s/DigitalMediaCenter225/Eb8iRQHqi9RJsKtxR4af58kBL0d-Q7fVbSBwNTe5z0CXaA?e=6obxn2)
+- [Adding Members and Authorizations](media/AddingMembersandAuths.pdf)
+- [Checking Out Equipment](media/CheckingOutEquipment.pdf)
+- [Checking Spaces In/Out](media/CheckingSpacesInandOut.pdf)
 
 ## Discord
 
@@ -228,7 +228,7 @@ HopkinsGroups is an integral part of the DMC's operations. We use HopkinsGroups 
 - Tracking registrations for events and workshops
 - Enrolling new members at the DMC
 - Tracking one-time fine waivers
-- Surveying 
+- Surveying members about DMC usage
 - Contacting DMC members and promoting resources
 - Collaborating/co-hosting events with other departments
 
@@ -239,5 +239,14 @@ All DMC staff have some administrative ("officer") access to HopkinsGroups. Here
 [info here]
 
 ### Creating Events
-
+- Pro Staff will create events, may ask StuStaff to edit or update
+- registration window - 1 week before event
+- use event template - 10 seats, free
+- feedback form - disable for non-workshop events
+- print/export QR code for check-in
+  
 ## Social Media and Promotion
+
+[add our own process here]
+
+[This guide](media/SA-event-promotion-guide.pdf) for promoting events at JHU is provided by Student Affairs.
