@@ -23,13 +23,13 @@ The Multimedia Specialist [description here]
 
 **Multimedia Assistants**:
 
-[description here]
+Multimedia Assistants keep the Digital Media Center lab running. They are the facilitators between our coveted DMC resources and the students who walk in off the street. Assistants are both the gatekeepers and subject matter experts on lab equipment, software, and processes. Students may inquire in-person, over the phone, via email, or through Discord. Additionally, Multimedia Assistants are responsible for working directly with patrons on equipment check-ins and checkouts, monitoring the lab to ensure patrons use the in-lab resources effectively, and opening and closing the lab.​
 
 **Multimedia Managers**
 
-[description here]
+In addition to all the responsibilities listed above, Multimedia Managers are responsible for leading and coordinating student-led workshops, mentoring incoming StuStaff members, requesting new equipment and refurbishments related to their specialties, and working with ProStaff towards the planning and marketing of DMC resources and events. ​
 
-Managers are hired from Student Staff yearly. To be eligible for the Manager position, student staff must have worked for the DMC for at least one year (two semesters).  Like all Student Staff, Managers work front desk and project shifts, but are responsible for leading DMC projects and helping with all-staff training events. The position requires a monthly meeting for planning event.
+Managers are hired from the existing Student Staff annually. To be eligible for a Manager position, student staff must have worked for the DMC for at least one year (two semesters). The position requires a monthly meeting for planning events and initiatives.
 
 ## Shift Types
 
