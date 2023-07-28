@@ -69,4 +69,13 @@ Creating a kit pic:
 - Put in the kit and update the Maintenance Log and mark the assigned Task as complete.
 
 ### Quick Start Guides
-Quick Start Guides are short guides 
+Quick Start Guides are short guides that help patrons use our equipment. Not all kits have quick start guides.
+
+Guides should:
+- Include step-by-step guides for common operations
+- Include illustrations/diagrams for common features specific to the device in the kit
+- Reinforce policies and processes from the authorization video and "show me" training with DMC staff (if applicable)
+- Be concise and no longer than a few pages.
+- Point users to other resources for reference and learning (e.g. DMC website, manufacturer manual, etc.)
+- Fit within the item kit without folding - scaled down to quarter or half-sheet, and laminated/grommeted like kit pics.
+- Use DMC fonts, colors, and include DMC contact information.

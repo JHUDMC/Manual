@@ -4,7 +4,7 @@
 
 ### Audio Studio
 #### Authorization
-[This illustrated guide](https://livejohnshopkins.sharepoint.com/:w:/s/DigitalMediaCenter225/EXS9dc6ti3NJrJeKm-3e1mIBW1_VtyuYvN6k5nPdrw2naQ?e=kMnIwL) lives in the Audio Studio for patron reference. The authorization process can be completed by a trained student staffer and takes between 30-45 minutes. 
+[This illustrated guide](media/AddingMembersandAuths.pdf) lives in the Audio Studio for patron reference. The authorization process can be completed by a trained student staffer and takes between 30-45 minutes. 
 
 #### Tips and Troubleshooting
 Here are some common problems with the Audio Studio and how to solve them.
