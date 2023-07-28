@@ -41,6 +41,7 @@
 
 ## [Systems](Systems.md)
 - [BookIt](Systems.md#bookit)
+  - [BookIt Item Edit](Systems.md#bookit-item-edit)
 - [Discord](Systems.md#discord)
   - [Discord Rules of Engagement](Systems.md#discord-rules-of-engagement)
 - [Email (Outlook)](Systems.md#email-outlook)
@@ -66,6 +67,7 @@
   - [Creating events](Systems.md#creating-events)
 - [Social Media and Promotion](Systems.md#social-media-and-promotion)
   - [Adding events to The Hub]
+  - [YoDeck]
 
 ## [Lab Operations and Facilities](LabOperations.md)
   - [Facilities Overview](LabOperations.md#facilities-overview)

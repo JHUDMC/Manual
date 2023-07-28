@@ -18,6 +18,50 @@ Laminated Job guides for common tasks in BookIt are located at the front desk. D
 - [Checking Out Equipment](media/CheckingOutEquipment.pdf)
 - [Checking Spaces In/Out](media/CheckingSpacesInandOut.pdf)
 
+### BookIt Item Edit
+Each item on BookIt has details we use to keep track of its features, value/serial number, and maintenance history. Pro Staff handles adding new items to the BookIt system, but Stu Staff may need to edit item information directly in the `Item Edit`'s `Details` and `Status` tabs.
+
+You can get to each item's edit screen by going to https://bookit.dmc.jhu.edu/admin/equipment/inventory and clicking the Edit Button ![edit button](media/edit-button.png) next to its entry.
+
+- Details:
+- `Item Instructions`:
+  - This field has the itemized list of components in a kit and is used to generate the receipt patrons complete on checkout. Kits with a single item should have this blank.
+    - Each component should be on a separate line.
+    - Multiples of items should be numbered in the following manner:
+  - 
+        Battery (1 of 2)
+        Battery (2 of 2)
+    - Prepend items contained within bags in the kit  `. .` to create indentation.
+- 
+        Small Lens Bag
+
+      . . Prime Lens (Canon 50mm F1.8 RF STM)
+
+      . . UV Protector
+
+      . . Front Lens Cap
+
+      . . Rear Lens Cap
+
+        Lens Adapter Case
+
+      . . Mount Adapter (Canon EF-EOS R)
+
+      . . Front Lens Cap
+
+      . . Rear Lens Cap`
+- Status: 
+  - `Active` items are able to be seen and checked out. They might have some problems but are functional and can be used by patrons.
+  - `Lost/Broken` items are non-functional.
+  - Do not use the `Inactive` status. Pro Staff might use this while getting a new item online.
+- Damage Notes:
+  - Put information about *current* problems with the kit in this field. Each damage note should describe what's wrong with the kit and be accompanied by a staffer's initials and [Circulation Ticket](#circulation-tickets) number referencing the ticket tracking in Tasks.
+  - If a particular item has been fixed or is free of issues, this field should be blank. Update the `Maintenance Log` with 
+- Service History:
+  - `Last Inventoried:` The date this item last went through the [Inventory](CirculatingResourceManagement#inventory) process.
+  - `Replacement Date:` The date this was replaced with a new item that took over its barcode. Most items have this field left blank.
+  - `Maintenance Log`: Any maintenance performed on this item, including replacing/repairing components, re-labeling, adding kit pics/quick start guides or other items. Almost all removals of entries in `Damage Notes` should be accompanied by an entry in the `maintenance log.` Each addition should be on a new line within the box and include staffer's initials, dates, and description of what was done.
+
 ## Discord
 
 The DMC's Discord server is the Virtual Front Desk for patrons asking questions. Its staff-only channels are also frequently used for discussions, announcements, and shift sub requests.

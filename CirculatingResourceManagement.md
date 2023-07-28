@@ -67,3 +67,6 @@ Creating a kit pic:
 - Cut the pages out and laminate them, and then put a grommet and washer on each page where indicated.
 - Bind together with a zip-tie or ring (you can find them in the Circ Room).
 - Put in the kit and update the Maintenance Log and mark the assigned Task as complete.
+
+### Quick Start Guides
+Quick Start Guides are short guides 
