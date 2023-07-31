@@ -35,17 +35,31 @@ Managers are hired from the existing Student Staff annually. To be eligible for 
 
 ### Front Desk
 
+The Front Desk shift is the core shift type for StuStaff members. The StuStaff member sits at the front desk and assists patrons in person and virtually.
+
 ### Project
 
+Project Shifts differ from Front Desk shifts in that these shifts are available for StuStaffers working on DMC-related projects, including but not limited to:
+- event planning
+- equipment maintenance
+- promotional material assembling
+- canvassing/tabling
+- planning and executing workshops
+
+**Importantly, the Project Shifts do not preclude a StuStaff member from assisting patrons. If there is a line of patrons, anyone on a Project Shift MUST help the Front Desk StuStaff.**
+
+
 ### Event/Extra
+
+The DMC will often host events or other extracurricular activities outside the scope of Front Desk/ Project shifts. These events happen relatively infrequently; importantly, Event/Extra shifts are typically "fun." 
 
 ## Security
 Student Staff are often the primary (and sometimes sole) safeguards of the resources and members of the DMC. You are expected to always use good judgment and monitor the lab and its users for potential hazards, such as unsafe equipment (cables in walkways) and unsafe behavior (unruly people who refuse to leave).
 
 As our valued employees, however, we want you to place your own safety and welfare above all other concerns. To protect yourselves, lab members and DMC resources, please abide by the following practices:
 
-1.	Keep the Cage and Circ Room doors closed during business hours.
-2.	Do not allow non-staff behind the front desk or into other staff-only areas.
+1.	Keep the Circ Room and other "Staff Only" doors closed during business hours.
+2.	Do not allow non-staff behind the Front Desk or into other staff-only areas.
 3.	Be alert to problematic behavior by patrons or visitors.
 4.	Err on the side of caution when you feel uncomfortable, and call Public Safety's non-emergency line: 6-4600 from the Front Desk phone or 410-516-4600 on your cell phone.
 5.	When leaving the lab after-hours, call Security for an escort or use the [LiveSafe smartphone app](https://publicsafety.jhu.edu/resources-services/livesafe-app/).

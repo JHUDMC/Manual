@@ -98,13 +98,13 @@ Minor infractions of the rules governing employment at the DMC will result in a 
 
 Examples of Minor Offenses include, but are not limited to:
 1.	Lateness for shift, without warning
-2.	Non-responsiveness to email or phone calls from Pro Sstaff
+2.	Non-responsiveness to email or phone calls from Pro Staff
 3.	Inability or unwillingness to be proactive and engaging with lab members
 4.	Ignoring daily tasks in order to pursue personal interests while working
 5.	Inappropriate dress or behavior in the lab
 6.	Eating in the lab (food is OK at the Front Desk)
 7.	Playing loud or inappropriate music, or otherwise contributing to a non-professional atmosphere in the lab
-8.	Having non-staff friends behind front desk and or focusing on friends over work during shifts
+8.	Having non-staff friends behind front desk and/or focusing on friends over work during shifts
 
 ### Termination
 Notification of termination will occur in person (if possible) and will be followed up in writing via email or US mail. Upon termination all keys and DMC property must be returned immediately, and any outstanding fines paid before the end of the semester. Failure to return property or pay fines will result in notification to the Dean of Student Life, and may result in withheld grades or delayed graduation. 
