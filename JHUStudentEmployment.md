@@ -16,7 +16,7 @@ The Program Coordinator will try develop a schedule that is most convenient to t
 
 •	**Interim** - A schedule for the first few weeks of a semester allowing for training of new staff and flexibility during the course add/drop period
 
-•	**Regular** - A fixed schedule of staffing from noon-midnight Sunday through Thursday and noon to 7 pm Friday and Saturday. If needed, a 7-10pm shift on Friday and Saturday nights will rotate among all StuStaff members.
+•	**Regular** - A fixed schedule of staffing from noon-midnight Monday through Thursday and noon to 7 pm Friday and Saturday. If needed, a 7-10pm shift on Friday/ Saturday/Sunday nights will rotate among all StuStaff members.
 
 •	**Vacation / Intersession / Summer** - A schedule for people who elect to stay on or near campus during a school vacation (such as Orientation, Thanksgiving Week, Spring Break, post-finals, summer, etc.) Schedule will be based on staff availability with a goal of staying open noon to 5pm on three days, noon to 8pm on two days, and several hours on one weekend day.
 
