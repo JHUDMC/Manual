@@ -83,15 +83,27 @@ To cast to the projector from a lab computer:
 #### Poster Printers
 
 ##### Epson P9880
+The Epson P9880 is used only with Matte paper (it's old and we need to use up all the ink!)
+Here's the [latest version of the Epson poster printer PDF guide](media/HowToGuide_PosterPrinter_updated080123.pdf) that patrons can follow step-by-step.
 ##### Epson P9000
+The Epson P9000 is used only with Luster/Glossy paper.
+
 ##### HP DesignJet Z5600
+Here's the [latest version of the HP DesignJet poster printer guide.](media/HPDesignJetZ5600.pdf)
+
 ##### Poster Printer Troubleshooting
 
 #### Inkjet Photo Printers
+
 ##### Epson P5000
+Here's the [latest version of the PDF guide](media/HowToGuide_EpsonP5000Printers-updated72723.pdf) that patrons can follow step-by-step.
+
 ###### P5000 Troubleshooting
+
 ##### Canon Pixma Pro 100
+
 ###### Printing with Specialty Paper
+
 ###### Pixma Troubleshooting
 
 ### Roland GX-24 Vinyl Cutter
@@ -103,8 +115,9 @@ To cast to the projector from a lab computer:
 ### Sewing Machines
 
 ### Epson Perfection V700 Flatbed Scanner
-The Epson Perfection V700 scanner is plugged into the Graphics specialty workstation.
-[info on how to scan goes here] 
+
+The Epson Perfection V700 scanner is plugged into the Graphics specialty workstation. Instructions on how to use it for documents and 35mm with the Epson Scan 2 software are posted on/by the scanner itself.
+
 ---
 
 ## *Circulating Equipment Authorizations*
