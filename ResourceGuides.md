@@ -91,7 +91,7 @@ The Epson P9000 is used only with Luster/Glossy paper.
 ##### HP DesignJet Z5600
 Here's the [latest version of the HP DesignJet poster printer guide.](media/HPDesignJetZ5600.pdf)
 
-##### Poster Printer Troubleshooting
+##### Poster Printer Maintenance
 
 #### Inkjet Photo Printers
 
@@ -99,12 +99,16 @@ Here's the [latest version of the HP DesignJet poster printer guide.](media/HPDe
 Here's the [latest version of the PDF guide](media/HowToGuide_EpsonP5000Printers-updated72723.pdf) that patrons can follow step-by-step.
 
 ###### P5000 Troubleshooting
+[telling you wrong paper - check that it's cut sheet print in print settings]
+[photoshop manage colors! black point compensation]
+[slowly shimmy the paper. don't shove it in. make the bottom of the paper hitting the rollers.]
 
 ##### Canon Pixma Pro 100
 
 ###### Printing with Specialty Paper
 
 ###### Pixma Troubleshooting
+[won't load paper - make sure that it hits the roller. might need to angle paper a little bit]
 
 ### Roland GX-24 Vinyl Cutter
 
