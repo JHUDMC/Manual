@@ -30,7 +30,7 @@ The multi-use VR studio is a space that can be freely configured depending on th
 3. Turn on the VR computer. The `dmcgamer` account should log in automatically.
 4. Take the Vive wireless headset from the wall. Plug the USB-A/USB-A cable from the battery pack to the wireless receiver and press the power button on top of the battery pack. The green LED on the headset's wireless receiver should start blinking.
 5. Start the `VIVE Wireless` app (shortcut on the Desktop) and make sure it's connected to the headset. Please note that the headset must be a few feet away from the wireless receiver perched on the top of the TV in order to register as connected.
-6. Secure the battery pack to your belt or place it securely in your pocket.
+6. Clip the battery pack to your belt or place it securely in your pocket.
 7. Start `SteamVR` app (shortcut on the Desktop). The app's indicators show the connection between the headset, the room sensors, and the two controllers. Press the button on each controller to turn it on.
 8. Launch your games from SteamVR!
 
@@ -127,8 +127,98 @@ The Epson Perfection V700 scanner is plugged into the Graphics specialty worksta
 ## *Circulating Equipment Authorizations*
 
 ### Beginner DSLR Cameras
+Members must attend an authorization, photo pre-orientation, or photo primer to checkout a DSLR Camera.
+
+If members have completed the photo primer, they are Authorized to use ALL cameras available at the DMC.
+
+When scheduling an Authorization, please remember to reserve a Camera for your appointment.
+
+A note that all camera authorizations should also be accompanied by a [tripod authorization](#tripods)
+
+#### Step 1: [Watch the T5i video](https://vimeo.com/191877122).
+
+#### Step 2: "Show me" demo with DMC Staff
+
+*This Authorization allows patrons to check out the Canon EOS Rebel T5i + EOS 90D.*
+
+After they have watched the video, ask the patron if they have any confusion or questions regarding camera operation.
+
+At the end of the authorization, a member should be able to demonstrate the following skills:
+
+1. Remove/replace the battery.
+2. Remove/replace the SD card.
+3. Show where the USB input is and explain how to offload footage from the camera.
+4. Remove/replace lens.
+5. Turn camera on
+6. Display white balance options.
+7. Scroll through ISO, aperture, and shutter speed options.
+8. Display frame rate options.
+9. Record a few seconds of footage and play it back.
+10. Attach the mic to the camera, turn it on, and manually change the audio levels in the camera.
+
+Ensure patrons know the difference between a **zoom** lens and a **fixed** lens (those included in the kit) and the different on-positions for the mic. Additionally, please make sure the patron knows the difference between “Aperture Priority,” “Shutter Priority,” and “Auto.”
+
+The 70D video is available here: https://vimeo.com/104657931 which though dated, may be helpful to patrons interested in the 90D.
 
 ### Advanced DSLR Cameras
+Advanced Authorization:
+
+*The Advanced Authorization is for patrons who want to use the: Canon EOS R8, R6, 5D, and 1D. *
+
+#### Step 1: Watch the following videos:
+
+https://vimeo.com/328695247
+
+https://vimeo.com/231555244 
+
+ 
+#### Step 2: "Show Me" Demo with DMC Staff
+Once they’ve finished, have THEM demonstrate the following:
+
+1. How to load/unload the battery
+2. How to load/unload SD card.
+3. How to change lenses and set the lens to manual focus.
+4. Switching between the different focus modes, including Manual, Autofocus, Aperture Priority, and Shutter Priority.
+5. Take a few photographs. Have them review the photos and delete them.
+6. Set the white balance manually using the white balance card.
+7. How to switch between photo and video modes.
+8. How to change the image quality to RAW.
+
+The Canon EOS R6/R8 cameras do not have authorization videos; we plan to have these created by the end of Fall 2023. In the meantime, for questions on operating the Canon mirrorless cameras, please watch https://www.youtube.com/watch?v=V4qQH94CZb0.
+
+#### Additional Resources
+
+If a patron has interests in camera operation and photography outside of the scope of an authorization, the following resources can be suggested to them:
+
+[Learning Your Canon DSLR Camera](https://www.linkedin.com/learning/learning-your-canon-dslr-camera)
+
+*Photography Resources available at the JHU Library:*
+
+[The Manual of Photography](https://catalyst.library.jhu.edu/permalink/01JHU_INST/1lu78g9/alma991060278097407861)
+
+[Photographer’s Eye](https://catalyst.library.jhu.edu/permalink/01JHU_INST/1lu78g9/alma991017460309707861)
+
+[Photography: A Very Short Introduction](https://catalyst.library.jhu.edu/permalink/01JHU_INST/1lu78g9/alma991031695489707861 )
+
+*Photo Magazines:*
+
+[Magnum Photos](https://www.magnumphotos.com/)
+
+[Aperture](https://aperture.org/magazine/)
+
+*Photo Documentaries available on Kanopy:*
+
+[Garry Winogrand: All Things Are Photographable](https://www.kanopy.com/en/jhu/video/5734738)
+
+[In No Great Hurry: 13 Lessons in Life with Photographer Saul Leiter](https://www.kanopy.com/en/jhu/video/5346748)
+
+ [Dorothea Lange: Grab a Hunk of Lightning](https://www.kanopy.com/en/jhu/video/132486)
+
+[On the Net](https://www.kanopy.com/en/jhu/video/11745826)
+
+[Leaving Home, Coming Home: A Portrait of Robert Frank](https://www.kanopy.com/en/jhu/video/5950496)
+
+[Bill Cunningham New York: A Portrait of the Beloved Fashion Photographer](https://www.kanopy.com/en/jhu/video/5318363)
 
 ### Tripods
 Every camera authorization must be accompanied by this tripod authorization if the patron is not already authorized to use the tripods!
