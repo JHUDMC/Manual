@@ -52,7 +52,7 @@ Once "Quick Fix" items are complete, they can be moved to "Repair/Purchase" if f
 Kit Pics are visual inventories included with circulating items. They help patrons and staff identify individual components within a kit as they complete the checkout receipt.
 
 Kit pics should be included in kits that have:
-- Small, similar looking parts (e.g. Ronin RSII camera gimbal)
+- Small, similar looking parts (e.g. Ronin RS2 camera gimbal)
 - Parts with specialized names that are not immediately identifiable to a layperson. (rule of thumb: if your mom couldn't identify it without help, it should have a kit pic)
 
 Creating a kit pic:

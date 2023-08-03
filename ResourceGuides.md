@@ -20,10 +20,18 @@ Here are some common problems with the Audio Studio and how to solve them.
 #### Plugin Guide
 The Audio Studio computer has the following extra plugins available (as Audio Units):
 
+- [Waves Gold Bundle](https://www.waves.com/bundles/gold)
+- [Native Instruments Komplete](https://www.native-instruments.com/en/catalog/software/)
+- [iZotope Ozone](https://www.izotope.com/en/products/ozone.html)
+- [Serum](https://xferrecords.com/products/serum/)
+- [Spitfire LABS sample libraries](https://labs.spitfireaudio.com/)
+
 ### VR Studio
 The multi-use VR studio is a space that can be freely configured depending on the patron's need. It contains a set of "endless" backdrops for photo/video recording, a whiteboard with a table and chairs, a TV on a wheeled cart, and a room-scale HTC Vive Pro VR System.
 
 #### Vive Quick Start Guide
+
+Patrons can follow the [illustrated guide on the wall](media/VRQuickstartPoster.jpg) in the VR Studio, but here are the steps in case staff needs to help them:
 
 1. ***Important for safety: Clear the area within the tape on the floor!***
 2. If needed, plug in the TV cart power strip and the computer's ethernet cable into the wall jack.
@@ -85,13 +93,16 @@ To cast to the projector from a lab computer:
 ##### Epson P9880
 The Epson P9880 is used only with Matte paper (it's old and we need to use up all the ink!)
 Here's the [latest version of the Epson poster printer PDF guide](media/HowToGuide_PosterPrinter_updated080123.pdf) that patrons can follow step-by-step.
+
 ##### Epson P9000
-The Epson P9000 is used only with Luster/Glossy paper.
+The Epson P9000 is used only with Luster/Glossy paper. Follow the same user guide as the Epson P9880.
 
 ##### HP DesignJet Z5600
 Here's the [latest version of the HP DesignJet poster printer guide.](media/HPDesignJetZ5600.pdf)
 
 ##### Poster Printer Maintenance
+
+[maintenance tanks and ink replacement?]
 
 #### Inkjet Photo Printers
 
@@ -99,15 +110,39 @@ Here's the [latest version of the HP DesignJet poster printer guide.](media/HPDe
 Here's the [latest version of the PDF guide](media/HowToGuide_EpsonP5000Printers-updated72723.pdf) that patrons can follow step-by-step.
 
 ###### P5000 Troubleshooting
-[telling you wrong paper - check that it's cut sheet print in print settings]
-[photoshop manage colors! black point compensation]
-[slowly shimmy the paper. don't shove it in. make the bottom of the paper hitting the rollers.]
+Here are some common problems that patrons run into using the P5000.
+
+Problem: *After sending the job to the printer, the printer displays an error like "wrong paper loaded."*
+
+Solution: Make sure that the print settings are set to feed a "cut sheet" from the "manual feed" and not "roll" or "paper cassette." Cancel and resend the print after checking these settings.
+
+Problem: *The photo prints with strange or unexpected colors.*
+
+Solution: Make sure that Photoshop is set to manage the colors in the print dialogue, not "printer manages colors." Double-check you have the correct paper color profile selected as well.
+
+Problem: *Paper won't load correctly; keep getting an error after putting it in the back tray.*
+
+Solution: The paper must be perfectly straight for it to load correctly. Don't "shove" it in but slowly shimmy it down into the slot. Look through the top lid and make sure the bottom of the sheet is touching the rollers so they can pull it into the printer evenly.
+
 
 ##### Canon Pixma Pro 100
 
+[guide to printing with correct settings
+- "printer manages settings" for color vs. Photoshop
+- load paper in one sheet at a time
+- make sure the lid is closed before pressing print]
+
 ###### Printing with Specialty Paper
+The Pixma must be used for any inkjet printing that is not on photo paper. Here are the papers that the DMC sells which must be used with the Pixma:
+
+- 5" x 7" postcard (it's too small for the P5000)
+- Tattoo paper
+- Sticker paper
+
+Patrons can also bring their own paper to use, and pay the ink-only cost.
 
 ###### Pixma Troubleshooting
+
 [won't load paper - make sure that it hits the roller. might need to angle paper a little bit]
 
 ### Roland GX-24 Vinyl Cutter

@@ -299,7 +299,7 @@ to maintain good standing and not be at risk for termination.
 
 **Staff are expected to continue to:**
 - Pursue interests in learning digital media skills in one or more areas
-- Engage in training and skill improvement every year
+- Engage in training and skill improvement every year, including at least one workshop per semester.
 - Attend general training and specialized digital media skill training in different domains. 
 - Achieve proficiency in all skills listed on the Front Desk Skill Demonstration check list.
 - Become authorized to use all special equipment categories.
