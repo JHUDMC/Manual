@@ -152,6 +152,7 @@
 ## [Circulating Resource Management](CirculatingResourceManagement.md)
 - [Circulation Room](CirculatingResourceManagement.md#circulation-room)
 - [Getting Equipment Online](CirculatingResourceManagement.md#getting-equipment-online)
+- [Circulating Software Licenses](CirculatingResourceManagement.md#circulating-resource-management)
 - [Inventory](CirculatingResourceManagement.md#inventory)
 - [Kit Pics and Quick Start Guides](CirculatingResourceManagement.md#kit-pics-and-quick-start-guides)
   - Kit Pics
