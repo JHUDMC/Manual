@@ -84,9 +84,36 @@ To cast to the projector from a lab computer:
 
 #### 3D Printer Tips and Troubleshooting
 
+Here are some common questions about 3D printing from patrons.
+
+Question: *Can I bring my own filament?*
+
+Answer: Generally, yes, but it must be pre-approved by the Multimedia Specialist ahead of time to make sure that it's compatible with the printer and won't damage the printer (some specialty filaments have abrasive elements in them)
+
+
+Question: *How do I load the filament in the enclosures?*
+
+Answer: Those used to the top-down loading system with the un-enclosed Prusas will notice a bit of a difference. Hang the filament on the hook inside the enclosure and push it up through the tube just inside the right door (there's an arrow marked on it)  and keep unspooling it until it triggers the autoload.
+
+Question: *My print will take too long. How can I make it go faster?*
+
+Answer: There are multiple ways to make a print go faster.
+- **[Reduce infill or switch infill patterns](https://help.prusa3d.com/article/infill-patterns_177130).** Most prints that don't need to bear a lot of weight or pressure will be fine with 10-20% infill. A print with less infill will print faster, and certain infill patterns will also print faster!
+- **Reorient the print on the build plate to use less support material.** When using automatic supports, you'll want the largest, flattest part of the model touching the plate. The more "overhangs" you have, the more support you need. Experiment with different placements in PrusaSlicer to see which orientation produces fewer supports.
+- **Separate your model into multiple parts.** PrusaSlicer has a [handy feature](https://help.prusa3d.com/article/cut-tool_1779) that can slice your model into multiple parts that you can print at different times (or with reduced supports), and you can glue the parts together after printing.
+- **Increase layer height.** Prints that don't need a lot of vertical resolution/detail will print MUCH faster if you increase the height of each layer. The DMC's Prusa printers have a 0.4mm nozzle, so 0.3mm is the thickest layer height they can reliably print. You can also set [variable layer height](https://help.prusa3d.com/article/variable-layer-height-function_1750) throughout your print. 
+
+Question: *Can I print overnight?*
+
+Answer: Yes! But you must obtain staff permission before starting your print. Please contact Jason Charney, the Multimedia Specialist, at charney@jhu.edu for permission. 
+
 ### Printers
 
-#### Pharos/Laser Printer
+#### Laser Printer
+
+The HP Color LaserJet M750 laser printer at the front desk can print in black and white or full color, single or double-sided. Fun fact: the DMC printer is (as far as we know) the only place on campus you can do 11" x 17" color laser prints. The printing cost is equivalent with printing on campus at the Libraries or elsewhere.
+
+To print at the Front Desk, patrons can email their documents to dmcstaff@jhu.edu and pay for their prints using J-Cash, credit card, or budget code (like other consumables). Please don't print more than ~25 copies of a single document; you can direct patrons to the FedEx next door, or, if it's for a student group event, they can use the [LEED](https://studentaffairs.jhu.edu/leed/) printer upstairs in The LaB.
 
 #### Poster Printers
 
