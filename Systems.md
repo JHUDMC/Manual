@@ -180,12 +180,12 @@ For more information, you can find the device's manual in the top drawer.
 
 **Need to print a receipt?**
 
-***NOTE You must ALWAYS print the receipt for FINES and put it in Travis' office mailbox outside the office door!***
+***NOTE You must ALWAYS print the receipt for FINES and put it in Pro Staff's office mailbox outside the office door!***
 
 1. Go to the "Bluefin" app.
 2. In the top bar, press `FUNC`.
 3. Press `Re-Print`.
-4. Press `Print Last`. *If you need to print a receipt for the patron and for Travis, you can perform this action twice.*
+4. Press `Print Last`. *If you need to print a receipt for the patron and for Pro Staff, you can perform this action twice.*
 
 **Need to void an incorrect charge?**
 1. Ask the patron to present the receipt. If it's for the most recent transaction, follow the steps above for printing a receipt.
@@ -283,11 +283,13 @@ All DMC staff have some administrative ("officer") access to HopkinsGroups. Here
 [info here]
 
 ### Creating Events
-- Pro Staff will create events, may ask StuStaff to edit or update
-- registration window - 1 week before event
-- use event template - 10 seats, free
-- feedback form - disable for non-workshop events
-- print/export QR code for check-in
+Pro Staff will create events in HopkinsGroups and may save them as Drafts pending confirmation of event details and completion of marketing collateral.
+
+Event registration should be open from 1 week before the event through the end of the event. For workshops in the lab, 10 registrants is typically the maximum capacity, but this can be scaled down depending on space or complexity. Use the default event template saved in HopkinsGroups but make sure to change the details such as time and registration dates!
+
+Disable the "feedback form" for non-workshop events.
+
+Print the QR code for participants to check in during the event.
   
 ## Social Media and Promotion
 
