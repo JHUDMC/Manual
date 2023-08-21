@@ -258,7 +258,8 @@ When a new project is started, add a folder in the current year with the followi
 These folders should contain production preparation materials, marketing collateral (including social media posts and anything made in Canva), and documentation from the event.
 
 #### PR & Marketing - TEMPLATES ONLY
-[add description]
+
+This folder contains Templates and assets for DMC-produced material. Make a copy of them to save in their own folders in Events and Projects if you're using anything in here!
 
 ### Teams Files
 
@@ -278,10 +279,6 @@ HopkinsGroups is an integral part of the DMC's operations. We use HopkinsGroups 
 
 All DMC staff have some administrative ("officer") access to HopkinsGroups. Here are guides to some tasks you may be asked to complete.
 
-### Badges
-
-[info here]
-
 ### Creating Events
 Pro Staff will create events in HopkinsGroups and may save them as Drafts pending confirmation of event details and completion of marketing collateral.
 
@@ -293,6 +290,22 @@ Print the QR code for participants to check in during the event.
   
 ## Social Media and Promotion
 
-[add our own process here]
+Each public event should be promoted on all DMC channels. Each piece of marketing created for an event should list:
+- Date/Time
+- Name of event
+- Location (if at DMC, don't need to list a specific location)
+- Link to registration on HopkinsGroups  (if applicable) Usually as QR code for all but Instagram.
+
+We create most of our content on Canva. Descriptions for each kind of format are below:
+- HopkinsGroups Banner - for displaying as a thumbnail/banner on HopkinsGroups events. It should have the name of the event and graphics, but doesn't need any other information. The finished image should be 760 x 380 pixels. [Here's an already-sized template on Canva.](https://www.canva.com/design/DAFfKZuhWYs/iJcoTbX4WIL-Cl-ff2vu9A/edit?utm_content=DAFfKZuhWYs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- Print Flyer - Should be a flyer that includes link for HopkinsGroup registration and the official JHU DMC logo (with the Student Affairs banner), or the "Discover The DMC" graphic. 8.5" x 11"
+- TV Signage – Can be adapted from the Print flyer to be 1920 x 1080 pixels. This is what shows on the DMC TV slideshow in the lab.
+- Instagram - [more info here]
+
+[Scheduling posts on Buffer]
+
+[posting locations around campus, PR bag]
 
 [This guide](media/SA-event-promotion-guide.pdf) for promoting events at JHU is provided by Student Affairs.
+
+[The Hub]
