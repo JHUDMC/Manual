@@ -57,10 +57,48 @@ You can get to each item's edit screen by going to https://bookit.dmc.jhu.edu/ad
 - Damage Notes:
   - Put information about *current* problems with the kit in this field. Each damage note should describe what's wrong with the kit and be accompanied by a staffer's initials and [Circulation Ticket](#circulation-tickets) number referencing the ticket tracking in Tasks.
   - If a particular item has been fixed or is free of issues, this field should be blank. Update the `Maintenance Log` with 
-- Service History:
+- Service History Notes:
   - `Last Inventoried:` The date this item last went through the [Inventory](CirculatingResourceManagement#inventory) process.
   - `Replacement Date:` The date this was replaced with a new item that took over its barcode. Most items have this field left blank.
   - `Maintenance Log`: Any maintenance performed on this item, including replacing/repairing components, re-labeling, adding kit pics/quick start guides or other items. Almost all removals of entries in `Damage Notes` should be accompanied by an entry in the `maintenance log.` Each addition should be on a new line within the box and include staffer's initials, dates, and description of what was done.
+
+Here's the HTML code to copy/paste in the Service History Notes for new items. Click the "Source" button in the Text Editor for the field.
+
+````
+<p><strong>Last Inventoried:</strong></p>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width: 100px;">
+	<tbody>
+		<tr>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p><strong>Date Replaced:</strong></p>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width: 100px;">
+	<tbody>
+		<tr>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p><b>Maintenance Log:</b></p>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width: 500px;">
+	<tbody>
+		<tr>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+````
 
 ## Discord
 
