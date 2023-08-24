@@ -270,6 +270,7 @@ Anything in Teams is editable and accessible by all DMC Staff, so be careful wit
 ## HopkinsGroups
 
 HopkinsGroups is an integral part of the DMC's operations. We use HopkinsGroups for:
+
 - Tracking registrations for events and workshops
 - Enrolling new members at the DMC
 - Tracking one-time fine waivers
@@ -286,11 +287,16 @@ Event registration should be open from 1 week before the event through the end o
 
 Disable the "feedback form" for non-workshop events.
 
-Print the QR code for participants to check in during the event.
+Copy the event link from HopkinsGroups and put it on the [DMC's Linktree](https://linktr.ee/DMCJHU).
+
+At the event itself: [print the QR code for participants to check themselves in.](https://help.campusgroups.com/en/articles/1105584-how-to-activate-the-qr-code-self-check-in-feature-to-your-event).
+
   
 ## Social Media and Promotion
 
-Each public event should be promoted on all DMC channels. Each piece of marketing created for an event should list:
+### Marketing Collateral
+Each public event should be promoted on all DMC channels using marketing collateral created by the DMC. Each piece of marketing created for an event should list:
+
 - Date/Time
 - Name of event
 - Location (if at DMC, don't need to list a specific location)
@@ -300,11 +306,13 @@ We create most of our content on Canva. Descriptions for each kind of format are
 - HopkinsGroups Banner - for displaying as a thumbnail/banner on HopkinsGroups events. It should have the name of the event and graphics, but doesn't need any other information. The finished image should be 760 x 380 pixels. [Here's an already-sized template on Canva.](https://www.canva.com/design/DAFfKZuhWYs/iJcoTbX4WIL-Cl-ff2vu9A/edit?utm_content=DAFfKZuhWYs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Print Flyer - Should be a flyer that includes link for HopkinsGroup registration and the official JHU DMC logo (with the Student Affairs banner), or the "Discover The DMC" graphic. 8.5" x 11"
 - TV Signage – Can be adapted from the Print flyer to be 1920 x 1080 pixels. This is what shows on the DMC TV slideshow in the lab.
-- Instagram - [more info here]
+- Instagram - These can be adapted from the print flyers, but don't need QR codes or descriptive text within the image itself (this should be moved to the caption). If you can, make video content or an animated version to accompany the photo.
 
-[Scheduling posts on Buffer]
+### Scheduling posts on Buffer
+We use [Buffer](https://buffer.com/) for scheduling posts on [Instagram](https://instagram.com/dmcjhu) and [Facebook](https://www.facebook.com/dmcjhu/). Schedule posts for specific events in the days leading up to it to encourage registration on HopkinsGroups. Other "evergreen" (eg general promotion or non-time-sensitive posts) can be scheduled between time-sensitive ones.
 
-[posting locations around campus, PR bag]
+### Posting flyers around campus
+[posting locations around campus, PR bag - asked university comms for map 8/24]
 
 [This guide](media/SA-event-promotion-guide.pdf) for promoting events at JHU is provided by Student Affairs.
 
