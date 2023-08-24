@@ -242,7 +242,7 @@ If those file paths don't work for some reason, try the IP address (`10.166.42.1
 | /Workshop         |                                          | Write: ProStaff<br>Read only: anyone |
 | /Admin            |                                          | ProStaff                             |
 | /Archive          |                                          | Prostaff                             |
-| /StaffHomes       | /Jason<br>/Travis<br>/Tony               | Jason<br>Travis<br>Tony              |
+| /StaffHomes       | /Jason<br>/Tony               | Jason<br>Tony              |
 
 ### Important Subfolders
 
@@ -289,7 +289,7 @@ Disable the "feedback form" for non-workshop events.
 
 Copy the event link from HopkinsGroups and put it on the [DMC's Linktree](https://linktr.ee/DMCJHU).
 
-At the event itself: [print the QR code for participants to check themselves in.](https://help.campusgroups.com/en/articles/1105584-how-to-activate-the-qr-code-self-check-in-feature-to-your-event).
+At the event itself: [print the QR code for participants to check themselves in.](https://help.campusgroups.com/en/articles/1105584-how-to-activate-the-qr-code-self-check-in-feature-to-your-event)
 
   
 ## Social Media and Promotion
