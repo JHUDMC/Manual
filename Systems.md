@@ -350,8 +350,15 @@ We create most of our content on Canva. Descriptions for each kind of format are
 We use [Buffer](https://buffer.com/) for scheduling posts on [Instagram](https://instagram.com/dmcjhu) and [Facebook](https://www.facebook.com/dmcjhu/). Schedule posts for specific events in the days leading up to it to encourage registration on HopkinsGroups. Other "evergreen" (eg general promotion or non-time-sensitive posts) can be scheduled between time-sensitive ones.
 
 ### Posting flyers around campus
-[posting locations around campus, PR bag - asked university comms for map 8/24]
+The only approved posting locations are any non-departmental bulletin boards inside or outside. Bulletin boards are notated if belonging to a department.
+ 
+Do not post on:
+- lightpoles on or off campus
+- bricks near breezeway or columns
+- on walls that are not bulletin boards
+- on doors or windows
+- restroom stalls
 
+A full listing of the policy  for both departments and orgs can be found here:
+https://studentaffairs.jhu.edu/leed/policies-procedures/event-promotion/
 [This guide](media/SA-event-promotion-guide.pdf) for promoting events at JHU is provided by Student Affairs.
-
-[The Hub]
