@@ -67,7 +67,7 @@ To cast to the projector from a lab computer:
 ##### Step 2: "Show Me" Demo with DMC Staff
 1. Make sure the Prusa and Raspberry Pi are powered on (Pi should never be turned off)
 2. Load filament:
-   - Autoload filament: push into top and select filament type on screen. Print head will start heating and pull filament in automatically.
+   - Autoload filament: push into extruder tube until the screen prompts to select filament type. Print head will start heating and pull filament in automatically. *Note: if you feel resistance before getting the screen prompt, it may not be going correctly into the tube. Try trimming the end of the filament to a clean point so it can go through the collet at the end of the tube and into the extruder*
    - Confirm that the material is extruding correctly from the print head.
 3. Log into the shared dmc3D account on the computer by the 3D printers 
    - Username: `dmc3D` PW: `dmc3Dpatron`
