@@ -301,7 +301,7 @@ Safely attach a camera to a tripod using its quick release plate.
 | Manfrotto Heavy Duty Fluid Head     | This tripod is our heaviest, and is intended for use with heavy video cameras such as the Sony FS5. Not ideal for lighter cameras due to its weight and bulkiness.                                                                                                              |
 
 ### Lenses
-The DMC has several speciality lenses you can attach to our camera kits (or use with your own Canon camera).
+The DMC has several specialty lenses you can attach to our camera kits (or use with your own Canon camera).
 
 The Canon EF-series lenses are used with EOS DSLR cameras (T5i, 5D, and 1D cameras). R-series lenses are used with the full-frame mirrorless cameras (R6 and R8). The DMC's extra lenses are all EF but can be used with the R6 and R8 cameras. Adapter rings are in each of these camera kits.
 
