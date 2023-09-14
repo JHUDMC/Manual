@@ -4,7 +4,7 @@
 
 ### Audio Studio
 #### Authorization
-[This illustrated guide](media/AddingMembersandAuths.pdf) lives in the Audio Studio for patron reference. The authorization process can be completed by a trained student staffer and takes between 30-45 minutes. 
+[This illustrated guide](media/AudioStudioPrimer.pdf) lives in the Audio Studio for patron reference. The authorization process can be completed by a trained student staffer and takes between 30-45 minutes. 
 
 #### Tips and Troubleshooting
 Here are some common problems with the Audio Studio and how to solve them.
