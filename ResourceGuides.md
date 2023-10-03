@@ -4,7 +4,9 @@
 
 ### Audio Studio
 #### Authorization
-[This illustrated guide](media/AudioStudioPrimer.pdf) lives in the Audio Studio for patron reference. The authorization process can be completed by a trained student staffer and takes between 30-45 minutes. 
+[This illustrated guide](media/AudioStudioPrimer.pdf) lives in the Audio Studio for patron reference. The authorization process can be completed by a trained student staffer and takes between 30-45 minutes.
+
+If a member inquires about reserving the Audio Studio and is not yet trained, student staff can create a booking in their name for the studio on BookIt. **Please note that they must complete the training under the guidance of a staffer on duty (culminating in emailing a demo track to dmcstaff@jhu.edu) before using the studio by themselves.**
 
 #### Tips and Troubleshooting
 Here are some common problems with the Audio Studio and how to solve them.
