@@ -11,7 +11,7 @@ The DMC's staff consists of two groups:
 
 The Associate Director of the DMC [description here]
 
-**Program Coordinator – Travis Levasseur**
+**Program Coordinator – Pam Donohue**
 
 The Program Coordinator [description here]
 
@@ -311,3 +311,7 @@ to maintain good standing and not be at risk for termination.
 New staff will attend a **mandatory day-long training event** where they will review the information in this manual and meet the rest of the DMC staff. Following training day new DMC employees will shadow for their first semester. 
 
 All staff may be asked to attend mid-semester refresher trainings or policy update meetings.
+
+## Pro Staff Equipment Use Policies
+Pro Staff is allowed to use DMC equipment for personal projects. Any booking consisting of over 2 items must be approved by the Associate Director prior to checkout. Pro Staff is responsible for checking their own equipment in and out of the cage and is responsible for loss or damages.
+
