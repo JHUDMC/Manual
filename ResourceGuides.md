@@ -11,6 +11,7 @@ If a member inquires about reserving the Audio Studio and is not yet trained, st
 #### Tips and Troubleshooting
 Here are some common problems with the Audio Studio and how to solve them.
 
+
 - *"I’m not getting any audio in the speakers from my DAW when my track is playing back."*
   - Check the preferences for your software and make sure it’s using the Scarlett 18i20 USB interface as the input/output audio device. Also, make sure the monitor speakers are not muted the volume knob is turned up!
   - If that doesn't work, try resetting the routing in the Focusrite Control software (`File -> Output Presets -> System Playback` in the menu bar)
