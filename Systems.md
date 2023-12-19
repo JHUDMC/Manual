@@ -11,7 +11,7 @@ BookIt, located at [bookit.dmc.jhu.edu](https://bookit.dmc.jhu.edu), is the DMC'
 
 Anyone can view our inventory on BookIt without signing in, but patrons must log into BookIt to create a reservation. BookIt interfaces with the JHU Single Sign On system (the system everyone with a JHED uses to log into myJHU, SIS, etc.) and the Active Directory system.
 
-After new patrons complete registration on HopkinsGroups, DMC staff adds them to the corresponding Active Directory groups using the custom "AD for DMC Equipment Approvers" app (see guide below). Patrons can check their membership status and authorizations using the [Authorization Lookup Tool](https://teams.microsoft.com/l/entity/8dfefe72-3c10-466a-8242-0b79a2d7ac59/_djb2_msteams_prefix_4218721136?context=%7B%22subEntityId%22%3Anull%2C%22channelId%22%3A%2219%3A84be967fe46e44f988912b8e334feaf7%40thread.skype%22%7D&groupId=a60cf059-d221-4e68-982a-585d03682213&tenantId=9fa4f438-b1e6-473b-803f-86f8aedf0dec&allowXTenantAccess=false).
+After new patrons complete registration on HopkinsGroups, DMC staff adds them to the corresponding Active Directory groups using the custom "AD for DMC Equipment Approvers" app (see guide below). Patrons can check their membership status and authorizations using the [Authorization Lookup Tool](https://teams.microsoft.com/l/entity/8dfefe72-3c10-466a-8242-0b79a2d7ac59/_djb2_msteams_prefix_4218721136?context=%7B%22subEntityId%22%3Anull%2C%22channelId%22%3A%2219%3A84be967fe46e44f988912b8e334feaf7%40thread.skype%22%7D&groupId=a60cf059-d221-4e68-982a-585d03682213&tenantId=9fa4f438-b1e6-473b-803f-86f8aedf0dec&allowXTenantAccess=false). See [LibAuth and Group Permissions](Systems.md#libauth-and-group-permissions) below for more information about how JH's Active Directory integrates with BookIt.
 
 Laminated Job guides for common tasks in BookIt are located at the front desk. Digital copies may be accessed here:
 - [Adding Members and Authorizations](media/AddingMembersandAuths.pdf)
@@ -99,6 +99,56 @@ Here's the HTML code to copy/paste in the Service History Notes for new items. C
 	</tbody>
 </table>
 ````
+### BookIt Backend and Customizations
+With the exception of the functional integration of JHU's Active Directory groups to authorize permissions for different equipment/spaces, the extensive customizations to LibCal are mostly cosmetic. They were developed and implemented by former student staffer Mason Gareis. Information on updating and maintaining them is below. But first, let's see how we manage trained user access to equipment...
+
+#### LibAuth and Group Permissions
+Active Directory (AD) groups are used to manage bookings for equipment and spaces that require authorization. Users are only able to reserve equipment if their JHED has been added to the corresponding active directory group by a staff member. The permissions can be set per equipment category through the LibCal Dashboard. Navigate to `Admin -> Spaces & Equipment -> Location: DMC Equipment and Lab Spaces -> Equipment & Categories` and then you can click the `Settings` dropdown on each category.
+
+![Equipment Category Settings](media/bookit-customization-walkthroughs/edit-category.png)
+
+At the bottom of the `General` tab of the `Edit Category` page, you'll see a menu called `LibAuth Group Rule`. By default, it should say "Use Location Setting." The particular authorization level required to reserve a category of equipment or space have a corresponding group rule selected here.
+
+![LibAuth Group Rule Dropdown menu](media/bookit-customization-walkthroughs/libauth-group-rule-dropdown.png)
+
+Our Location Setting (configured in `Admin -> Spaces & Equipment -> Edit Location`) is "DMC Members," meaning that only people in the DMC Members group are allowed to reserve equipment. DMC Members have completed our orientation process and have been added to the `"DMC-Members"` AD group.
+
+##### Editing Authorization Groups in LibAuth
+
+"LibAuth" is the configuration that connects the JHU AD with LibCal's group permissions, and it's accessed through the "LibApps" system. Only ProStaff and IT need to access it, and will only need to do so if adding or removing authorization groups from the system.
+
+**Note: An IT administrator must create the AD group FIRST before we can add a new group rule in LibAuth!**
+
+To get to this system, click in the top left corner of the Dashboard:
+
+![Spring to LibApps](media/bookit-customization-walkthroughs/spring-to-libapps.png)
+
+You may need to authenticate with Hopkins SSO again to access the LibApps dashboard.
+
+Within the `LibApps Home` page, click `Admin -> LibAuth Authentication`.
+
+![Admin Menu LibAuth](media/bookit-customization-walkthroughs/admin-menu-libauth.png)
+
+Here's where our SAML integration with Hopkins SSO has been set up. Click the `Edit Configuration` icon here:
+
+![Edit configuration icon](media/bookit-customization-walkthroughs/edit-auth-configuration.png)
+
+Then click the `Group Permissions` tab at the top of this page. Now you can see all the permission groups that correspond to our special authorizations.
+
+Add a group with the particular name you want to show up in LibCal.
+
+Under `Attribute Name`, put `urn:oid:1.2.840.113556.1.2.102`. All groups will have this same info.
+
+The `Allowed Value(s)` field shows the hierarchy of "objects" in the Active Directory system. This field will look the same in every group except for the very first part. For example, here's the `Allowed Value(s)` for `DSLR: Advanced Group`:
+
+```CN=DMC-Photo-AdvancedDSLR,OU=DMC Equipment,OU=DMC Equipment Borrowing,OU=Groups,OU=USS,DC=win,DC=ad,DC=jhu,DC=edu```
+
+And for the `Audio: Audio Studio`:
+
+```CN=DMC-AudioStudio,OU=DMC Equipment,OU=DMC Equipment Borrowing,OU=Groups,OU=USS,DC=win,DC=ad,DC=jhu,DC=edu```
+
+The bit following `"CN="` at the beginning has to match how it appears in Active Directory exactly (the list of groups in the Active Directory tool). Again, IT must have already first added this group for us before ProStaff can create the connection in LibAuth.
+
 
 ## Discord
 
